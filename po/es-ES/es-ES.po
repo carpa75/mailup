@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
 "POT-Creation-Date: 2014-09-12 11:39+0200\n"
 "PO-Revision-Date: 2014-09-12 09:11+0200\n"
 "Last-Translator: Oscar Piacenza <piacenza@nweb.it>\n"
@@ -1868,7 +1868,7 @@ msgstr "En evaluación"
 
 #: GestioneIntegrazioni.app-enable-desc
 msgid "GestioneIntegrazioni.app-enable-desc"
-msgstr "\nLa aplicación está habilitada y tiene acceso a los datos de la plataforma.##\nPara completar el proceso visita el siguiente enlace y configura la aplicación.##\nSi no se configura la aplicación, esta se deshabilita en modo automático.##\nEl link propuesto es externo a MailUp.##\nEl desarrollo, la documentación y el soporte técnico son a cargo del autor.\n"
+msgstr "La aplicación está habilitada y tiene acceso a los datos de la plataforma.##\nPara completar el proceso visita el siguiente enlace y configura la aplicación.##\nSi no se configura la aplicación, esta se deshabilita en modo automático.##\nEl link propuesto es externo a MailUp.##\nEl desarrollo, la documentación y el soporte técnico son a cargo del autor."
 
 #: GestioneIntegrazioni.app-website
 msgid "GestioneIntegrazioni.app-website"
@@ -3959,7 +3959,7 @@ msgstr "Filtro nuevo de geolocalización"
 
 #: ElencoContenutiEsterni.lblNoPermesso
 msgid "ElencoContenutiEsterni.lblNoPermesso"
-msgstr "\n<br>\nLa opción del CONTENIDO DINÁMICO te permite cambiar el contenido del email, teniendo en cuenta  ciertas condiciones(e.i. una imagen diferente dependiendo del sexo del destinatario).\n</br>\nLa parte dinámica del contenido se inserta en tiempo real cuando se envía el email. Los tipos de contenido que pueden ser dinámicamente incluidos son:</br>\n<ul>\n<li>Página web o archivo web (e.i. URL a una página o una imagen)</li>\n<li></li>fuentes de RSS (puedes configurar cuantas quieras y las que aparecerán como las más recientes)</li>\n<li>Otros mensajes creados en el sistema y que son usados como tenedores de contenidos</li>\n</ul>\nPuedes incluir múltiples casos de contenido dinámico en el mismo mensaje.\n<br>\nLa condiciones a partir de las cuales el contenido dinámico se añade, se basan en cuatro tipos de “filtros”:\n<ul>\n<li>Perfil (e.i. nombre, fecha de nacimiento, edad etc)</li>\n<li>Actividad (acción realizada: e.i. no se ha abierto...)</li>\n<li>Geolocalización</li>\n<li>Dispositivo(tipo de dispositivo usado para leer el mensaje)</li>\n</ul>\nPara crear filtros múltiples, necesitarás añadir la opción de ##Marketing+## en tu cuenta.\n<br>\nLa \"opción del\" contenido dinámico es parte del paquete ##Message+##.\n"
+msgstr "<br>\nLa opción del CONTENIDO DINÁMICO te permite cambiar el contenido del email, teniendo en cuenta  ciertas condiciones(e.i. una imagen diferente dependiendo del sexo del destinatario).\n</br>\nLa parte dinámica del contenido se inserta en tiempo real cuando se envía el email. Los tipos de contenido que pueden ser dinámicamente incluidos son:</br>\n<ul>\n<li>Página web o archivo web (e.i. URL a una página o una imagen)</li>\n<li></li>fuentes de RSS (puedes configurar cuantas quieras y las que aparecerán como las más recientes)</li>\n<li>Otros mensajes creados en el sistema y que son usados como tenedores de contenidos</li>\n</ul>\nPuedes incluir múltiples casos de contenido dinámico en el mismo mensaje.\n<br>\nLa condiciones a partir de las cuales el contenido dinámico se añade, se basan en cuatro tipos de “filtros”:\n<ul>\n<li>Perfil (e.i. nombre, fecha de nacimiento, edad etc)</li>\n<li>Actividad (acción realizada: e.i. no se ha abierto...)</li>\n<li>Geolocalización</li>\n<li>Dispositivo(tipo de dispositivo usado para leer el mensaje)</li>\n</ul>\nPara crear filtros múltiples, necesitarás añadir la opción de ##Marketing+## en tu cuenta.\n<br>\nLa \"opción del\" contenido dinámico es parte del paquete ##Message+##."
 
 #: ElencoContenutiEsterni.lblLinkMarketingPlus
 msgid "ElencoContenutiEsterni.lblLinkMarketingPlus"
@@ -4226,11 +4226,11 @@ msgstr "Total de créditos"
 
 #: newsletter_translate.lblNota
 msgid "newsletter_translate.lblNota"
-msgstr "\nEste servicio provee una alta calidad de traducción de tus mensajes de email a diferentes idiomas. La traducción la realizan unos traductores profesionales  y son revisadas por un editor (dos procesos de revisión). Después de un máximo de 3 días, verás el mensaje traducido listo para ser enviado, y guardado en la lista que elijas.\n"
+msgstr "Este servicio provee una alta calidad de traducción de tus mensajes de email a diferentes idiomas. La traducción la realizan unos traductores profesionales  y son revisadas por un editor (dos procesos de revisión). Después de un máximo de 3 días, verás el mensaje traducido listo para ser enviado, y guardado en la lista que elijas."
 
 #: newsletter_translate.lblNB
 msgid "newsletter_translate.lblNB"
-msgstr "\nNota:\n<ul>\n<li>El coste es de  3.2 créditos por palabra (se cuentan los números). El mínimo es de 614 palabras (1,964.8 créditos).</li>\n<li>La imágenes no se traducen.</li>\n<li>Cualquier etiqueta dinámica, si la hay, será traducida. Quizás tengas que restablecer los campos dinámicos antes de enviar el mensaje.</li>\n<li>Asegúrate de que el código HTML es correcto antes de solicitar la traducción: las etiquetas incorrectas (e.i. etiquetas que no están cerradas correctamente) se pueden confundir por textos y ser traducidas.</li>\n<li>Los traductores son especialistas en temas de marketing.</li>\n<li>La traducción de documentos legales es un servicio extra y se le puede aplicar una tarifa adicional para cubrir el mayor coste (si es que se le puede proveer esa traducción).</li>\n<li>La solicitud de una traducción no se puede cancelar o modificar.</li>\n</ul>\n"
+msgstr "Nota:\n<ul>\n<li>El coste es de  3.2 créditos por palabra (se cuentan los números). El mínimo es de 614 palabras (1,964.8 créditos).</li>\n<li>La imágenes no se traducen.</li>\n<li>Cualquier etiqueta dinámica, si la hay, será traducida. Quizás tengas que restablecer los campos dinámicos antes de enviar el mensaje.</li>\n<li>Asegúrate de que el código HTML es correcto antes de solicitar la traducción: las etiquetas incorrectas (e.i. etiquetas que no están cerradas correctamente) se pueden confundir por textos y ser traducidas.</li>\n<li>Los traductores son especialistas en temas de marketing.</li>\n<li>La traducción de documentos legales es un servicio extra y se le puede aplicar una tarifa adicional para cubrir el mayor coste (si es que se le puede proveer esa traducción).</li>\n<li>La solicitud de una traducción no se puede cancelar o modificar.</li>\n</ul>"
 
 #: newsletter_translate.lblMessaggioOriginale
 msgid "newsletter_translate.lblMessaggioOriginale"
@@ -4266,7 +4266,7 @@ msgstr "Solicitudes:"
 
 #: newsletter_translate.lblDescrizioneServizio
 msgid "newsletter_translate.lblDescrizioneServizio"
-msgstr "\nAlgunos idiomas no están activos en estos momentos, pero los podemos activar rápidamente si es necesario. Si deseas traducir tu mensaje a otros idiomas, por favor selecciónalo aquí (no se cobra por esta solicitud)\n\n"
+msgstr "Algunos idiomas no están activos en estos momentos, pero los podemos activar rápidamente si es necesario. Si deseas traducir tu mensaje a otros idiomas, por favor selecciónalo aquí (no se cobra por esta solicitud)\n"
 
 #: newsletter_translate.lblConfirm
 msgid "newsletter_translate.lblConfirm"
@@ -4854,7 +4854,7 @@ msgstr "Activar la \"Activar biblioteca web\" opción en las propiedades avanzad
 
 #: select_link_archived.lblNoPublicEmail
 msgid "select_link_archived.lblNoPublicEmail"
-msgstr "\nEsta opción te permite crear enlaces para mensajes previamente enviados que serán de uso público en internet..<br><br>\nActualmente no hay mensajes que hayan sido 'publicados' en la biblioteca Web. Para publicar una página:<br>\n1) Crea un mensaje nuevo seleccionando Nuevo > Email.<br>\n2) Al final del Email > Guardado, selecciona el mensaje(s) y haz clic en el \"botón\" publicar al final.\n"
+msgstr "Esta opción te permite crear enlaces para mensajes previamente enviados que serán de uso público en internet..<br><br>\nActualmente no hay mensajes que hayan sido 'publicados' en la biblioteca Web. Para publicar una página:<br>\n1) Crea un mensaje nuevo seleccionando Nuevo > Email.<br>\n2) Al final del Email > Guardado, selecciona el mensaje(s) y haz clic en el \"botón\" publicar al final."
 
 # ---------------------------------------
 # select_template
@@ -5208,7 +5208,7 @@ msgstr "Se requiere IP"
 
 #: WSSettings.Legenda
 msgid "WSSettings.Legenda"
-msgstr "\n[b]Servicio de Web :[/b]|Servicio de nombre de.#\n[b]Activo:[/b]|Muestra si el servicio está disponible.#\n[b]Enabled:[/b]|Activa el servicio.#\n[b]IP direcciones:[/b]|Permite añadir las direcciones de IP para llamar al servicio.[br] Cualquier solicitud de direcciones de IP no registradas no será aceptada.\n"
+msgstr "[b]Servicio de Web :[/b]|Servicio de nombre de.#\n[b]Activo:[/b]|Muestra si el servicio está disponible.#\n[b]Enabled:[/b]|Activa el servicio.#\n[b]IP direcciones:[/b]|Permite añadir las direcciones de IP para llamar al servicio.[br] Cualquier solicitud de direcciones de IP no registradas no será aceptada."
 
 #: WSSettings.apiUser
 msgid "WSSettings.apiUser"
@@ -8589,7 +8589,7 @@ msgstr "Capacidad de publicar mensajes en Biblioteca Web desactivada."
 
 #: newsletter_archive_all.WarningLink
 msgid "newsletter_archive_all.WarningLink"
-msgstr "\nPara activarla, haz clic aquí.\n"
+msgstr "Para activarla, haz clic aquí."
 
 #: newsletter_archive_all.btnNascondiPubblicati
 msgid "newsletter_archive_all.btnNascondiPubblicati"
@@ -9896,15 +9896,15 @@ msgstr "CTOR (Tasa de clic para abrir)"
 
 #: detailed_report.lblTooltipOR
 msgid "detailed_report.lblTooltipOR"
-msgstr "\nOR = Tasa de mensajes enviados = Lectores únicos / (Enviado - No enviado).\n"
+msgstr "OR = Tasa de mensajes enviados = Lectores únicos / (Enviado - No enviado)."
 
 #: detailed_report.lblTooltipCTR
 msgid "detailed_report.lblTooltipCTR"
-msgstr "\nCTR = Tasa de clics en los mensajes enviados = (Número de destinatarios que han hecho clic al menos una vez) / (Enviado - No enviado).\n"
+msgstr "CTR = Tasa de clics en los mensajes enviados = (Número de destinatarios que han hecho clic al menos una vez) / (Enviado - No enviado)."
 
 #: detailed_report.lblTooltipCTOR
 msgid "detailed_report.lblTooltipCTOR"
-msgstr "\nCTOR = Porcentaje de lectores único que han hecho clic al menos una vez = Número de destinatarios que han hecho clic al menos una vez / Lectores únicos.\n"
+msgstr "CTOR = Porcentaje de lectores único que han hecho clic al menos una vez = Número de destinatarios que han hecho clic al menos una vez / Lectores únicos."
 
 #: detailed_report.notaRpt3
 msgid "detailed_report.notaRpt3"
@@ -11839,7 +11839,7 @@ msgstr "Exportar"
 
 #: overall_report.notaLettori
 msgid "overall_report.notaLettori"
-msgstr "\n<b>Leyenda:</b>|#\n<b>Lectores:</b>|son los destinatarios que leyeron el mensaje al menos una vez y que fueron identificados por descargar imágenes o hacer clic en un enlace. Estos son lectores únicos.#\n<b>Aperturas:</b>|es el número de veces que el mensaje ha sido abierto por completo (incluyendo las imágenes). El destinatario puede abrir el mismo mensaje más de una vez, por lo que el número de aperturas puede ser más alto que el de lectores. Cuando un mensaje se envía con imágenes incrustadas las aperturas se registran al cargar un documento CSS. Sólo unos pocos clientes lo han cargado correctamente. Por lo que el número total es, por lo general, subestimado (en un 50% o más) en comparación con el número real de aperturas. Las estadísticas no se pueden comparar con los mensajes enviados sin imágenes incrustadas.#\n<b>Lectores que hacen clic:</b>|Es el número de lectores únicos que han hecho clic en al menos un enlace.#\n<b>Clics:</b>|El número total de clics. Un lector puede hacer clic más de una vez, por lo que el número de clics puede ser más alto que el de lectores que hacen clic.#\n<b>Lectores que no hacen clic:</b>| son los lectores que no han hecho clic en ningún enlace.#\n<b>Lectores sin imágenes:</b>| son los lectores que han hecho clic en por lo menos un enlace (razón por la que el sistema determina que abrieron el mensaje), pero que no han descargado las imágenes incluidas en este.#\n<b>Problemas de visualización:</b>|son los lectores que no pudieron ver correctamente el mensaje y que, por eso, hicieron clic en el enlace \"Mostrar el mensaje en tu navegador\".#\n<b>Enviados:</b>|es el total de mensajes enviados.#\n<b>Devueltos:</b>|son los mensajes rechazados por el servidor de recepción. Normalmente, se pueden producir por dos razones: por un problema permanente (p. ej. una dirección mal escrita) o por un fallo temporal (p. ej.tener la bandeja de entrada llena).#\n<b>Enviados:</b>|es el número de mensajes que se entregaron. Es igual a la diferencia entre los mensajes enviados y los devueltos.#\n<b>Autorespuestos:</b>|son los que tienen instalados por el destinatario la opción de respuestas automáticas (p. ej. el destinatario está de vacaciones).#\n<b>Buzón lleno:</b>|son los mensajes que no se enviaron porque la bandeja de entrada del destinatario estaba llena.#\n<b>Cancelados:</b>|son los destinatarios que se dieron de baja (puedes insertar fácilmente un enlace de \"cancelación\" en el mensaje usando el boton \"Des\"). Puedes ver una lista detallada de de las cancelaciones en el menú Destinatarios.#\n<b>Lectores de mensajes en formato de texto:</b>|es el número estimado de lectores únicos que leyeron el mensaje en formato de texto (sin necesidad de descargar una imagen). Se calcula como: el número de usuarios que han hecho clic sin necesidad de descargar una imagen * (Lectores únicos que descargaron una imagen / lectores únicos que hicieron clic al menos una vez y descargaron imágenes). Los lectores únicos que descargaron imágenes es lo mismo que las aperturas únicas con imágenes.\n<b>Aperturas en formato de texto:</b>|es el número estimado de veces que el mensaje se abrió en formato de texto (sin descargar ninguna imagen). Se calcula como: Lectores de mensajes en formato de texto * (Aperturas/Lectores que hacen clic).#\n<b>Destinatarios que han hecho clic sin descargar imágenes:</b>|es el número de destinatarios que han hecho clic al menos una vez sin necesidad de descargar y mostrar las imágenes.#\n<b>Reenviados:</b>|los destinatarios que reenviaron el mensaje usando la función \"Reenviar a un amigo\". Se puede insertar un enlace Reenviar a un amigo al editar un mensaje.#\n<b>Los usuarios que hicieron clic en la lista para ver la versión web:</b>|los destinatarios que han hecho clic en el enlace \"Ver la versión web de este mensaje\" que normalmente se sitúa en la parte superior del mensaje. En muchos casos, el enlace se añade en el ENCABEZADO compartido por todos los mensajes de la lista.#\n<b>Aperturas únicas con imágenes:</b>|los lectores únicos o los que confirmaron una única apertura. El número de usuarios únicos que visualizaron el mensaje (ya sea abierto completamente o usando la vista previa) y por lo tanto descargaron el píxel de seguimiento. Aunque el usuario abra el correo electrónico algunas veces o registre varias solicitudes de pixeles de seguimiento, sólo se cuenta como una dirección de email. Esta medida sólo se le aplica a los mensajes en formato HTML y están incluidos los usuarios que han abierto la versión web del mensaje. Si el mensaje se envía con imágenes, al abrirlo se le aplica un seguimiento usando un enlace CSS que sólo proporciona una pequeña aproximación del valor real.#\n<b>Aperturas únicas en formato de texto:</b>|es el número de usuarios que han abierto el mensaje sin necesidad de descargar ni la imagen ni el pixel de seguimiento. Para calcular este número se suma el número de personas que hacen clic en un enlace sin desplegar las imágenes y se multiplica por la tasa resultante entre el número de lectores que descargaron las imágenes y el número de clics únicos que hicieron estos lectores. Este valor está subestimado ya que, por lo general, cuando se muestran las imágenes la tasa de clics en mayor.#\n<b>Aperturas globales únicas:</b>|son las aperturas únicas con imágenes + las aperturas únicas en formato de texto#\n<b>Aperturas con imágenes:</b>|es igual a las Aperturas únicas con imágenes, pero en este caso se cuentan las aperturas múltiples. Un mensaje puede ser abierto varias veces por el destinatario o por aquellas personas a las que reenvió el mensaje.#\n<b>Aperturas sólo en formato de texto:</b>| es igual que las Aperturas únicas sólo en formato de texto pero, en este caso, se cuentan las aperturas múltiples por el mismo destinatario. Un mensaje puede ser abierto varias veces por el mismo destinatario o por aquellas personas a las que reenvió el mensaje.#\n<b>Aperturas totales:</b>|son todas las veces que se abrió el mensaje, incluye: aperturas con imágenes + aperturas única en formato de texto + aperturas en formato de web#\n<b>Clics únicos:</b>|es el número de usuarios que han hecho clic en un enlace por lo menos una vez. Si el mensaje tiene 3 enlaces y 2 usuarios hicieron clic en todos los enlaces una vez, el número de clics únicos es 2 y el número total de clics es 6.#\n<b>Clics únicos de apertura (Unique CTO):</b>|es el número de personas que hicieron clic al menos en un enlace dividido entre el número de \"aperturas únicas con imágenes\" (lectores). Por ejemplo, si se envía un mensaje a 4 personas: dos personas le prestaron atención al mensaje y una de ellas hizo clic en un enlace 7 veces, el CTO resultante es del 50% (1 único clic / 2 aperturas confirmadas = 50%)#\n<b>Aperturas web:</b>|son las visitas a la versión web del mensaje. También incluye las aperturas que vienen de una publicación hecha en una red social. La cifra NO incluye las visitas a la página por parte de aquellos que hicieron clic en el enlace para ver el mensaje en el navegador debido a los problemas en los emails de tus clientes (el enlace normalmente se encuentra en la parte superior del mensaje). El número de aperturas web aumenta cuando se utilizan las características Email Check Up, Análisis del email y monitor del buzón.#\n<b>Activo:</b>|son los destinatarios que abrieron 1 mensaje en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene en el sistema las estadísticas a nivel de usuario por más de 90 días).#\n<b>Muy activos:</b>|son los destinatarios que abrieron un mensaje al menos dos veces en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene las estadísticas a nivel de usuario por más de 90 días), y al menos una vez en los últimos 30 días.#\n<b>Inactivo:</b>|son los destinatarios que no han abierto ningún mensaje en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene las estadísticas a nivel de usuario por más de 90 días).#\n<b>Compartido:</b>|cuenta cada vez que un destinatario hace clic en el icono del mensaje compartido en una red social.#\n<b>Fan:</b>|es un destinatario que ha reenviado o compartido el mensaje en las redes sociales.#\n<b>Visitas a la Biblioteca web:</b>|si la Biblioteca web está activa, el valor refleja todas las visitas a la versión web del mensaje, con excepción de los que vienen del email en sí, ya que son debido a problemas de diseño y se realiza un seguimiento por separado.\n"
+msgstr "<b>Leyenda:</b>|#\n<b>Lectores:</b>|son los destinatarios que leyeron el mensaje al menos una vez y que fueron identificados por descargar imágenes o hacer clic en un enlace. Estos son lectores únicos.#\n<b>Aperturas:</b>|es el número de veces que el mensaje ha sido abierto por completo (incluyendo las imágenes). El destinatario puede abrir el mismo mensaje más de una vez, por lo que el número de aperturas puede ser más alto que el de lectores. Cuando un mensaje se envía con imágenes incrustadas las aperturas se registran al cargar un documento CSS. Sólo unos pocos clientes lo han cargado correctamente. Por lo que el número total es, por lo general, subestimado (en un 50% o más) en comparación con el número real de aperturas. Las estadísticas no se pueden comparar con los mensajes enviados sin imágenes incrustadas.#\n<b>Lectores que hacen clic:</b>|Es el número de lectores únicos que han hecho clic en al menos un enlace.#\n<b>Clics:</b>|El número total de clics. Un lector puede hacer clic más de una vez, por lo que el número de clics puede ser más alto que el de lectores que hacen clic.#\n<b>Lectores que no hacen clic:</b>| son los lectores que no han hecho clic en ningún enlace.#\n<b>Lectores sin imágenes:</b>| son los lectores que han hecho clic en por lo menos un enlace (razón por la que el sistema determina que abrieron el mensaje), pero que no han descargado las imágenes incluidas en este.#\n<b>Problemas de visualización:</b>|son los lectores que no pudieron ver correctamente el mensaje y que, por eso, hicieron clic en el enlace \"Mostrar el mensaje en tu navegador\".#\n<b>Enviados:</b>|es el total de mensajes enviados.#\n<b>Devueltos:</b>|son los mensajes rechazados por el servidor de recepción. Normalmente, se pueden producir por dos razones: por un problema permanente (p. ej. una dirección mal escrita) o por un fallo temporal (p. ej.tener la bandeja de entrada llena).#\n<b>Enviados:</b>|es el número de mensajes que se entregaron. Es igual a la diferencia entre los mensajes enviados y los devueltos.#\n<b>Autorespuestos:</b>|son los que tienen instalados por el destinatario la opción de respuestas automáticas (p. ej. el destinatario está de vacaciones).#\n<b>Buzón lleno:</b>|son los mensajes que no se enviaron porque la bandeja de entrada del destinatario estaba llena.#\n<b>Cancelados:</b>|son los destinatarios que se dieron de baja (puedes insertar fácilmente un enlace de \"cancelación\" en el mensaje usando el boton \"Des\"). Puedes ver una lista detallada de de las cancelaciones en el menú Destinatarios.#\n<b>Lectores de mensajes en formato de texto:</b>|es el número estimado de lectores únicos que leyeron el mensaje en formato de texto (sin necesidad de descargar una imagen). Se calcula como: el número de usuarios que han hecho clic sin necesidad de descargar una imagen * (Lectores únicos que descargaron una imagen / lectores únicos que hicieron clic al menos una vez y descargaron imágenes). Los lectores únicos que descargaron imágenes es lo mismo que las aperturas únicas con imágenes.\n<b>Aperturas en formato de texto:</b>|es el número estimado de veces que el mensaje se abrió en formato de texto (sin descargar ninguna imagen). Se calcula como: Lectores de mensajes en formato de texto * (Aperturas/Lectores que hacen clic).#\n<b>Destinatarios que han hecho clic sin descargar imágenes:</b>|es el número de destinatarios que han hecho clic al menos una vez sin necesidad de descargar y mostrar las imágenes.#\n<b>Reenviados:</b>|los destinatarios que reenviaron el mensaje usando la función \"Reenviar a un amigo\". Se puede insertar un enlace Reenviar a un amigo al editar un mensaje.#\n<b>Los usuarios que hicieron clic en la lista para ver la versión web:</b>|los destinatarios que han hecho clic en el enlace \"Ver la versión web de este mensaje\" que normalmente se sitúa en la parte superior del mensaje. En muchos casos, el enlace se añade en el ENCABEZADO compartido por todos los mensajes de la lista.#\n<b>Aperturas únicas con imágenes:</b>|los lectores únicos o los que confirmaron una única apertura. El número de usuarios únicos que visualizaron el mensaje (ya sea abierto completamente o usando la vista previa) y por lo tanto descargaron el píxel de seguimiento. Aunque el usuario abra el correo electrónico algunas veces o registre varias solicitudes de pixeles de seguimiento, sólo se cuenta como una dirección de email. Esta medida sólo se le aplica a los mensajes en formato HTML y están incluidos los usuarios que han abierto la versión web del mensaje. Si el mensaje se envía con imágenes, al abrirlo se le aplica un seguimiento usando un enlace CSS que sólo proporciona una pequeña aproximación del valor real.#\n<b>Aperturas únicas en formato de texto:</b>|es el número de usuarios que han abierto el mensaje sin necesidad de descargar ni la imagen ni el pixel de seguimiento. Para calcular este número se suma el número de personas que hacen clic en un enlace sin desplegar las imágenes y se multiplica por la tasa resultante entre el número de lectores que descargaron las imágenes y el número de clics únicos que hicieron estos lectores. Este valor está subestimado ya que, por lo general, cuando se muestran las imágenes la tasa de clics en mayor.#\n<b>Aperturas globales únicas:</b>|son las aperturas únicas con imágenes + las aperturas únicas en formato de texto#\n<b>Aperturas con imágenes:</b>|es igual a las Aperturas únicas con imágenes, pero en este caso se cuentan las aperturas múltiples. Un mensaje puede ser abierto varias veces por el destinatario o por aquellas personas a las que reenvió el mensaje.#\n<b>Aperturas sólo en formato de texto:</b>| es igual que las Aperturas únicas sólo en formato de texto pero, en este caso, se cuentan las aperturas múltiples por el mismo destinatario. Un mensaje puede ser abierto varias veces por el mismo destinatario o por aquellas personas a las que reenvió el mensaje.#\n<b>Aperturas totales:</b>|son todas las veces que se abrió el mensaje, incluye: aperturas con imágenes + aperturas única en formato de texto + aperturas en formato de web#\n<b>Clics únicos:</b>|es el número de usuarios que han hecho clic en un enlace por lo menos una vez. Si el mensaje tiene 3 enlaces y 2 usuarios hicieron clic en todos los enlaces una vez, el número de clics únicos es 2 y el número total de clics es 6.#\n<b>Clics únicos de apertura (Unique CTO):</b>|es el número de personas que hicieron clic al menos en un enlace dividido entre el número de \"aperturas únicas con imágenes\" (lectores). Por ejemplo, si se envía un mensaje a 4 personas: dos personas le prestaron atención al mensaje y una de ellas hizo clic en un enlace 7 veces, el CTO resultante es del 50% (1 único clic / 2 aperturas confirmadas = 50%)#\n<b>Aperturas web:</b>|son las visitas a la versión web del mensaje. También incluye las aperturas que vienen de una publicación hecha en una red social. La cifra NO incluye las visitas a la página por parte de aquellos que hicieron clic en el enlace para ver el mensaje en el navegador debido a los problemas en los emails de tus clientes (el enlace normalmente se encuentra en la parte superior del mensaje). El número de aperturas web aumenta cuando se utilizan las características Email Check Up, Análisis del email y monitor del buzón.#\n<b>Activo:</b>|son los destinatarios que abrieron 1 mensaje en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene en el sistema las estadísticas a nivel de usuario por más de 90 días).#\n<b>Muy activos:</b>|son los destinatarios que abrieron un mensaje al menos dos veces en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene las estadísticas a nivel de usuario por más de 90 días), y al menos una vez en los últimos 30 días.#\n<b>Inactivo:</b>|son los destinatarios que no han abierto ningún mensaje en los últimos 3 meses (o en un período más largo si el cliente compró una extensión de las estadísticas a nivel de usuario ya que mantiene las estadísticas a nivel de usuario por más de 90 días).#\n<b>Compartido:</b>|cuenta cada vez que un destinatario hace clic en el icono del mensaje compartido en una red social.#\n<b>Fan:</b>|es un destinatario que ha reenviado o compartido el mensaje en las redes sociales.#\n<b>Visitas a la Biblioteca web:</b>|si la Biblioteca web está activa, el valor refleja todas las visitas a la versión web del mensaje, con excepción de los que vienen del email en sí, ya que son debido a problemas de diseño y se realiza un seguimiento por separado."
 
 #: overall_report.detailsSubject
 msgid "overall_report.detailsSubject"
@@ -13358,7 +13358,7 @@ msgstr "No es inválido"
 
 #: form_filtro.nota
 msgid "form_filtro.nota"
-msgstr "\nNULL = Un campo en el que no se encontró un valor<br>\n<br>\nY = Todos los filtros deben ser verificados (verdadero) al mismo timepo<br>\n<br>\nO = Al menos uno de los filtros debe ser verificado (verdadero)<br>\n"
+msgstr "NULL = Un campo en el que no se encontró un valor<br>\n<br>\nY = Todos los filtros deben ser verificados (verdadero) al mismo timepo<br>\n<br>\nO = Al menos uno de los filtros debe ser verificado (verdadero)<br>"
 
 #: form_filtro.lblNoPermessoNoHtml
 msgid "form_filtro.lblNoPermessoNoHtml"
@@ -13853,7 +13853,7 @@ msgstr " es los últimos #CTRL# días "
 
 #: form_filtro_attivita.nota
 msgid "form_filtro_attivita.nota"
-msgstr "\nLINK = indicar el enlace o parte del enlace para aislar sólo los destinatarios<br>\nque lo han clicado. Dejalo vacío para indicar todos los enlaces. Úsalo con el filtro<br>\n\"Hacer clic/No han hecho clic\".<br>\n<br>\nAND = Se deben verificar todas las condiciones (true) al mismo tiempo<br>\n<br>\nOR = Al menos una de las condiciones se verifica (true).<br>\n"
+msgstr "LINK = indicar el enlace o parte del enlace para aislar sólo los destinatarios<br>\nque lo han clicado. Dejalo vacío para indicar todos los enlaces. Úsalo con el filtro<br>\n\"Hacer clic/No han hecho clic\".<br>\n<br>\nAND = Se deben verificar todas las condiciones (true) al mismo tiempo<br>\n<br>\nOR = Al menos una de las condiciones se verifica (true).<br>"
 
 #: form_filtro_attivita.lblNoPermessoNoHtml
 msgid "form_filtro_attivita.lblNoPermessoNoHtml"
@@ -14272,7 +14272,7 @@ msgstr " en cualquier fecha. "
 
 #: form_filtro_geo.nota
 msgid "form_filtro_geo.nota"
-msgstr "\nENLACE = introduce el enlace o una parte de él para aislar sólo a los destinatarios<br>\nque han hecho clic. Déjalo vacío para tener en cuenta todos los enlaces. Úsalo con un filtro<br>\n\"Clicado/No clicado\".<br>\n<br>\nY = Todas las condiciones deben ser verificadas (verdaderas) al mismo tiempo<br>\n<br>\nO = Al menos una de las condiciones debe de ser verificada (verdadera).<br>\n"
+msgstr "ENLACE = introduce el enlace o una parte de él para aislar sólo a los destinatarios<br>\nque han hecho clic. Déjalo vacío para tener en cuenta todos los enlaces. Úsalo con un filtro<br>\n\"Clicado/No clicado\".<br>\n<br>\nY = Todas las condiciones deben ser verificadas (verdaderas) al mismo tiempo<br>\n<br>\nO = Al menos una de las condiciones debe de ser verificada (verdadera).<br>"
 
 #: form_filtro_geo.lblNoPermessoNoHtml
 msgid "form_filtro_geo.lblNoPermessoNoHtml"
@@ -16567,7 +16567,7 @@ msgstr "Cancelar"
 
 #: form_upd_sub.errorCanNotSplit
 msgid "form_upd_sub.errorCanNotSplit"
-msgstr "\nNo puedes modificar los datos cuando el email o el número de teléfono ya están en el sistema pero los puedes asociar a otra cuenta.<BR>\nPara modificar los datos que se necesitas para editar un usuario que ya existe.<BR>\nPara eliminar un contacto de tu lista, establece el estado de los contactos como \"cancelados\".\n"
+msgstr "No puedes modificar los datos cuando el email o el número de teléfono ya están en el sistema pero los puedes asociar a otra cuenta.<BR>\nPara modificar los datos que se necesitas para editar un usuario que ya existe.<BR>\nPara eliminar un contacto de tu lista, establece el estado de los contactos como \"cancelados\"."
 
 #: form_upd_sub.errorCanNotSplit_1
 msgid "form_upd_sub.errorCanNotSplit_1"
@@ -17927,7 +17927,7 @@ msgstr "Seleccionar # de contactos aleatoriamente"
 
 #: sub_list_adv.tooltipRandomSubs
 msgid "sub_list_adv.tooltipRandomSubs"
-msgstr "\nTe permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo.\n"
+msgstr "Te permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo."
 
 #: sub_list_adv.randomNoSubs
 msgid "sub_list_adv.randomNoSubs"
@@ -18146,7 +18146,7 @@ msgstr "SELECCIONAR # NÚMEROS APLICANDO UN FILTRO A LA SELECCIÓN ALEATORIA"
 
 #: sub_list_adv_SMS.tooltipRandomSubs
 msgid "sub_list_adv_SMS.tooltipRandomSubs"
-msgstr "\nTe permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo.\n"
+msgstr "Te permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo."
 
 #: sub_list_adv_SMS.randomNoSubs
 msgid "sub_list_adv_SMS.randomNoSubs"
@@ -18437,7 +18437,7 @@ msgstr "# de destinatarios asignados de manera aleatoria"
 
 #: sub_list_adv_messages.tooltipRandomSubs
 msgid "sub_list_adv_messages.tooltipRandomSubs"
-msgstr "\nTe permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo.\n"
+msgstr "Te permite seleccionar contactos aleatoriamente,<br />\npara enviarles un mensaje nuevo o realizar una prueba.<br />\nLos usuarios seleccionados se pueden asignar a un nuevo grupo<br />\ny luego puedes enviarles un mensaje de inclusión o exclusión de ese grupo."
 
 #: sub_list_adv_messages.randomNoSubs
 msgid "sub_list_adv_messages.randomNoSubs"
@@ -18946,7 +18946,7 @@ msgstr "para extraer sólo los números de teléfono desde cualquier tipo de doc
 
 #: form_choose_import.labelNote
 msgid "form_choose_import.labelNote"
-msgstr "\n<STRONG>Note:</STRONG></BR>Para importar los destinatarios, usa la opción CORTAR Y PEGAR si la lista contiene menos de 5000 números de teléfono o emails.</BR></BR>\nEl procedimiento de importación ignorará automáticamente las direcciones previamente suscritas, actualiza los contactos existentes y evita así añadir duplicados.\n"
+msgstr "<STRONG>Note:</STRONG></BR>Para importar los destinatarios, usa la opción CORTAR Y PEGAR si la lista contiene menos de 5000 números de teléfono o emails.</BR></BR>\nEl procedimiento de importación ignorará automáticamente las direcciones previamente suscritas, actualiza los contactos existentes y evita así añadir duplicados."
 
 #: form_choose_import.fixedLength
 msgid "form_choose_import.fixedLength"
@@ -20464,7 +20464,7 @@ msgstr "Al menos una columna debe contener la dirección de correo electrónico.
 
 #: do_import_csv.msgErr2
 msgid "do_import_csv.msgErr2"
-msgstr "\nElige una lista, un separador de campo, el orden del campo  y el archivo que quieres importar.\n"
+msgstr "Elige una lista, un separador de campo, el orden del campo  y el archivo que quieres importar."
 
 #: do_import_csv.msgErr3
 msgid "do_import_csv.msgErr3"
@@ -20496,7 +20496,7 @@ msgstr "Enviar mensaje de solicitud de confirmación de suscripción"
 
 #: do_import_csv.MsgCheckPreviewEmail
 msgid "do_import_csv.MsgCheckPreviewEmail"
-msgstr "\nNOTA: puede haber un problema con el archivo que importas. Hemos detectado que las primeras 10 líneas del archivo que has subido contienen menos de 3 direcciones de correo electrónico válidas.<br/><br/>\nPor favor, comprueba que has seleccionado el separador de campo correcto y delimitador de texto y que usas un archivo de texto (txt) o CSV (separados por valores de comas).<br/><br/>¿Quieres continuar de todas maneras?\n"
+msgstr "NOTA: puede haber un problema con el archivo que importas. Hemos detectado que las primeras 10 líneas del archivo que has subido contienen menos de 3 direcciones de correo electrónico válidas.<br/><br/>\nPor favor, comprueba que has seleccionado el separador de campo correcto y delimitador de texto y que usas un archivo de texto (txt) o CSV (separados por valores de comas).<br/><br/>¿Quieres continuar de todas maneras?"
 
 #: do_import_csv.MsgCheckPreviewEmailXLS
 msgid "do_import_csv.MsgCheckPreviewEmailXLS"
@@ -20504,7 +20504,7 @@ msgstr "NOTA: puede haber un problema con el archivo que importas. Hemos detecta
 
 #: do_import_csv.MsgErrorCheckPreviewEmail
 msgid "do_import_csv.MsgErrorCheckPreviewEmail"
-msgstr "\nNOTA: puede haber un problema con el archivo que importas. Hemos detectado que las primeras 10 líneas del archivo que has subido no contienen direcciones de correo electrónico válidas.<br/><br/>\nPor favor, comprueba lo siguiente antes de continuar:<br/><br/>\n- El formato del archivo es *.txt o *.csv (con valores separados por comas)<br/>\n- Has usado un separador de campo correcto en el archivo (coma o punto y coma) y has seleccionado la opción correspondiente aquí<br/>\n- Has usado un separador de campo correcto en el archivo (si lo hay) (nada, comillas, vértices) y has seleccionado la opción correspondiente aquí\n<br/><br/>Para comprobar el archivo, ábrelo con un editor de texto como el bloc de notas.<br/><br/>\n¿Quieres continuar de todas maneras?\n"
+msgstr "NOTA: puede haber un problema con el archivo que importas. Hemos detectado que las primeras 10 líneas del archivo que has subido no contienen direcciones de correo electrónico válidas.<br/><br/>\nPor favor, comprueba lo siguiente antes de continuar:<br/><br/>\n- El formato del archivo es *.txt o *.csv (con valores separados por comas)<br/>\n- Has usado un separador de campo correcto en el archivo (coma o punto y coma) y has seleccionado la opción correspondiente aquí<br/>\n- Has usado un separador de campo correcto en el archivo (si lo hay) (nada, comillas, vértices) y has seleccionado la opción correspondiente aquí\n<br/><br/>Para comprobar el archivo, ábrelo con un editor de texto como el bloc de notas.<br/><br/>\n¿Quieres continuar de todas maneras?"
 
 #: do_import_csv.lblBtnTorna
 msgid "do_import_csv.lblBtnTorna"
@@ -27297,11 +27297,11 @@ msgstr "Si NO lo has seleccionado, el formulario no será accesible."
 
 #: form_autoprofile.altType
 msgid "form_autoprofile.altType"
-msgstr "\nTipo de formulario:<BR>\nPÚBLICO: todo el mundo puede acceder a él<BR>\nPRIVADO: sólo se accede a él después de confirmar la identidad a través de un email\n"
+msgstr "Tipo de formulario:<BR>\nPÚBLICO: todo el mundo puede acceder a él<BR>\nPRIVADO: sólo se accede a él después de confirmar la identidad a través de un email"
 
 #: form_autoprofile.noteEditor
 msgid "form_autoprofile.noteEditor"
-msgstr "\n<STRONG>NOTA:</STRONG><BR />\n1. NO se muestra el campo que contiene el número entero de la parte superior del formulario. Haz clic en Vista previa para previsualizar la página <img src=\"../img/editor_preview.gif\" align=\"absmiddle\" border=\"0\"><BR />\n2. Para eliminar una línea, haz clic derecho y selecciona \"Eliminar esta línea\"<BR />\n3. Para añadir un campo obligatorio, ve a Ajustes de campo > Configuración de la cuenta > Campos dinámicos.\n"
+msgstr "<STRONG>NOTA:</STRONG><BR />\n1. NO se muestra el campo que contiene el número entero de la parte superior del formulario. Haz clic en Vista previa para previsualizar la página <img src=\"../img/editor_preview.gif\" align=\"absmiddle\" border=\"0\"><BR />\n2. Para eliminar una línea, haz clic derecho y selecciona \"Eliminar esta línea\"<BR />\n3. Para añadir un campo obligatorio, ve a Ajustes de campo > Configuración de la cuenta > Campos dinámicos."
 
 #: form_autoprofile.instructions
 msgid "form_autoprofile.instructions"
@@ -27578,7 +27578,7 @@ msgstr "Valor por defecto"
 
 #: form_autoprofile_confirm.testoCampiDinamici
 msgid "form_autoprofile_confirm.testoCampiDinamici"
-msgstr "\nInserta en la copia del mensaje el nombre del campo dinámico en minúsculas (ej. [nombre]).<br>\n<font color=\"#FF0000\">NOTA </font>: no podrías añadir en tu email un enlace de suscripción o cancelación en el email para confirmar una cancelación.\n"
+msgstr "Inserta en la copia del mensaje el nombre del campo dinámico en minúsculas (ej. [nombre]).<br>\n<font color=\"#FF0000\">NOTA </font>: no podrías añadir en tu email un enlace de suscripción o cancelación en el email para confirmar una cancelación."
 
 #: form_autoprofile_confirm.noMailDisiscr
 msgid "form_autoprofile_confirm.noMailDisiscr"
@@ -27590,7 +27590,7 @@ msgstr "Seleccionar"
 
 #: form_autoprofile_confirm.noteAutoprofile
 msgid "form_autoprofile_confirm.noteAutoprofile"
-msgstr "\n<STRONG>NOTE:</STRONG><BR />\nPara crear un enlace con el formulario para actualizar el perfil, usa este botón: <img src=\"../img/btn_autoprofile.gif\" align=\"absmiddle\" border=\"0\">\n"
+msgstr "<STRONG>NOTE:</STRONG><BR />\nPara crear un enlace con el formulario para actualizar el perfil, usa este botón: <img src=\"../img/btn_autoprofile.gif\" align=\"absmiddle\" border=\"0\">"
 
 #: form_autoprofile_confirm.lblSuccesso
 msgid "form_autoprofile_confirm.lblSuccesso"
@@ -27737,39 +27737,39 @@ msgstr "Para seguir todos los enlaces, selecciona la opción de SEGUIMIENTO AUTO
 
 #: nl_checkup.webAnalyticsHelp
 msgid "nl_checkup.webAnalyticsHelp"
-msgstr "\nPuedes usar códigos de seguimiento adicionales\n<br>procedentes de los sistemas de análisis de webs como Google Analytics entre otras.\n<br>Para usarlos, simplemente pega el código de seguimiento de la campaña en el\n<br>AÑADE PARÁMETROS DE PERSONALIZACIÓN DE ENLACES cuando edites un mensaje (Opciones avanzadas).\n<br>El código de seguimiento se añadirá automáticamente al final de cada enlace.\n<br>Por favor, ten en cuenta que vas a ser capaz de ver la relación completa sólo cuando envías el mensaje.\n<br>Los sistemas de análisis web permiten realizar un seguimiento de los comportamientos de los usuarios que visitan un sitio web.\n"
+msgstr "Puedes usar códigos de seguimiento adicionales\n<br>procedentes de los sistemas de análisis de webs como Google Analytics entre otras.\n<br>Para usarlos, simplemente pega el código de seguimiento de la campaña en el\n<br>AÑADE PARÁMETROS DE PERSONALIZACIÓN DE ENLACES cuando edites un mensaje (Opciones avanzadas).\n<br>El código de seguimiento se añadirá automáticamente al final de cada enlace.\n<br>Por favor, ten en cuenta que vas a ser capaz de ver la relación completa sólo cuando envías el mensaje.\n<br>Los sistemas de análisis web permiten realizar un seguimiento de los comportamientos de los usuarios que visitan un sitio web."
 
 #: nl_checkup.embeddedHelp
 msgid "nl_checkup.embeddedHelp"
-msgstr "\nPara incrustar imágenes y que no esté bloqueada por el correo electrónico de tu cliente (como Outlook, Gmail, Hotmail...)\n<br>necesitas tener la opción del paquete Message+ activo en tu cuenta. A continuación, vas a serás capaz de INCRUSTAR IMÁGENES, en la interfaz de edición del mensaje.\n<br>Sin embargo, ten en cuenta que el uso de imágenes incrustadas no se considera una buena práctica. Consulta la base de conocimientos para saber más.\n"
+msgstr "Para incrustar imágenes y que no esté bloqueada por el correo electrónico de tu cliente (como Outlook, Gmail, Hotmail...)\n<br>necesitas tener la opción del paquete Message+ activo en tu cuenta. A continuación, vas a serás capaz de INCRUSTAR IMÁGENES, en la interfaz de edición del mensaje.\n<br>Sin embargo, ten en cuenta que el uso de imágenes incrustadas no se considera una buena práctica. Consulta la base de conocimientos para saber más."
 
 #: nl_checkup.allegatiHelp
 msgid "nl_checkup.allegatiHelp"
-msgstr "\nSi se produce un error, edita el mensaje otra vez para quitar y volver a poner todos los archivos (ej. un archivo podría eliminarse o haber cambiado de nombre).\n"
+msgstr "Si se produce un error, edita el mensaje otra vez para quitar y volver a poner todos los archivos (ej. un archivo podría eliminarse o haber cambiado de nombre)."
 
 #: nl_checkup.tagDinamiciHelp
 msgid "nl_checkup.tagDinamiciHelp"
-msgstr "\nLas etiquetas dinámicas te permiten personalizar tu mensaje con el texto que es específico para el destinatario (ej. su nombre completo).\n<br> Para usar esa opción tienes que tener la opción del paquete Message+ activada en tu cuenta.\n<br> Cuando Message+ está activado, selecciona HABILITAR CAMPOS DINÁMICOS en la interfaz de editar mensajes. El nombre del campo dinámico siempre tiene que ir en minúsculas.\n"
+msgstr "Las etiquetas dinámicas te permiten personalizar tu mensaje con el texto que es específico para el destinatario (ej. su nombre completo).\n<br> Para usar esa opción tienes que tener la opción del paquete Message+ activada en tu cuenta.\n<br> Cuando Message+ está activado, selecciona HABILITAR CAMPOS DINÁMICOS en la interfaz de editar mensajes. El nombre del campo dinámico siempre tiene que ir en minúsculas."
 
 #: nl_checkup.unsubscribeLinkHelp
 msgid "nl_checkup.unsubscribeLinkHelp"
-msgstr "\nEs muy importante que uses el enlace automático de cancelación ya que le permite al destinatario darse de baja de una forma rápida y segura.\n<br>Es fácil crear un enlace de cancelación. Sólo tienes que seleccionar el texto o la imagen y hacer clic en el botón rojo \"UNS\"\n<br>¿Por qué se usa la cancelación automática?\n<ul>\n<li>el destinatario se cancelará con seguridad (el email se mueve a la lista CANCELADOS)</li>\n<li>el administrador no se arriesgará a volver a subir a los usuarios dados de baja ya que se ignoran automáticamente.</li>\n<li>se puede comprobar la lista de cancelaciones en cualquier momento (Destinatarios > DADOS DE BAJA)</li>\n<li>puedes exportar la lista de cancelados en cualquier momento (Destinatarios > Exportar)</li>\n<li>puedes recibir una alerta de correo electrónico cuando un destinatario se da de baja (Ajustes > Editar lista).</li>\n<li>si necesitas esta información para otra base de datos (e-commerce, CRM...), el sistema puede pasar los parámetros automáticamente<br>\n</ul>\n"
+msgstr "Es muy importante que uses el enlace automático de cancelación ya que le permite al destinatario darse de baja de una forma rápida y segura.\n<br>Es fácil crear un enlace de cancelación. Sólo tienes que seleccionar el texto o la imagen y hacer clic en el botón rojo \"UNS\"<br>¿Por qué se usa la cancelación automática?\n<ul>\n<li>el destinatario se cancelará con seguridad (el email se mueve a la lista CANCELADOS)</li>\n<li>el administrador no se arriesgará a volver a subir a los usuarios dados de baja ya que se ignoran automáticamente.</li>\n<li>se puede comprobar la lista de cancelaciones en cualquier momento (Destinatarios > DADOS DE BAJA)</li>\n<li>puedes exportar la lista de cancelados en cualquier momento (Destinatarios > Exportar)</li>\n<li>puedes recibir una alerta de correo electrónico cuando un destinatario se da de baja (Ajustes > Editar lista).</li>\n<li>si necesitas esta información para otra base de datos (e-commerce, CRM...), el sistema puede pasar los parámetros automáticamente<br>\n</ul>"
 
 #: nl_checkup.controlloLinkHelp
 msgid "nl_checkup.controlloLinkHelp"
-msgstr "\nLa verificación del enlace se hace directamente por el W3C.<br>\nPor favor, consulta la documentación del W3C si tienes alguna pregunta sobre los resultados.\n"
+msgstr "La verificación del enlace se hace directamente por el W3C.<br>\nPor favor, consulta la documentación del W3C si tienes alguna pregunta sobre los resultados."
 
 #: nl_checkup.controlloCodiceHelp
 msgid "nl_checkup.controlloCodiceHelp"
-msgstr "\nLa verificación del código se lleva a cabo según los estándares del W3C.<br>\nPor favor, consulta la documentación del W3C si tienes alguna pregunta sobre los resultados.\n"
+msgstr "La verificación del código se lleva a cabo según los estándares del W3C.<br>\nPor favor, consulta la documentación del W3C si tienes alguna pregunta sobre los resultados."
 
 #: nl_checkup.controlloMobileHelp
 msgid "nl_checkup.controlloMobileHelp"
-msgstr "\nEl sistema comprueba que el código es compatible con W3C\n<br>y los estándares para dispositivos móviles tales como teléfonos móviles o smartphones.\n"
+msgstr "El sistema comprueba que el código es compatible con W3C\n<br>y los estándares para dispositivos móviles tales como teléfonos móviles o smartphones."
 
 #: nl_checkup.controlloSpamCheckHelp
 msgid "nl_checkup.controlloSpamCheckHelp"
-msgstr "\nRevisa el spam para analizar si el mensaje va a ser considerado como spam.\n"
+msgstr "Revisa el spam para analizar si el mensaje va a ser considerado como spam."
 
 #: nl_checkup.lblControlliW3C
 msgid "nl_checkup.lblControlliW3C"
@@ -27805,7 +27805,7 @@ msgstr "Imprimir"
 
 #: nl_checkup.noteDiStampa
 msgid "nl_checkup.noteDiStampa"
-msgstr "\n<strong>NOTA:</strong><br>\n<strong>- los resultados de los controles W3C se imprimen de forma individual, haz clic en cada resultado de la prueba y selecciona IMPRIMIR</strong>\n<br>- Ignorar el código de error: 302.\n<br>- MS Outlook y otros clientes no admiten CSS. Ve a nuestra base de conocimientos para obtener información más detallada y actualizada.\n"
+msgstr "<strong>NOTA:</strong><br>\n<strong>- los resultados de los controles W3C se imprimen de forma individual, haz clic en cada resultado de la prueba y selecciona IMPRIMIR</strong>\n<br>- Ignorar el código de error: 302.\n<br>- MS Outlook y otros clientes no admiten CSS. Ve a nuestra base de conocimientos para obtener información más detallada y actualizada."
 
 #: nl_checkup.lblErrTagDinamiciSpec
 msgid "nl_checkup.lblErrTagDinamiciSpec"
@@ -28040,7 +28040,7 @@ msgstr "Informe:"
 
 #: nl_SpamCheck.lblNoteSpamCheck
 msgid "nl_SpamCheck.lblNoteSpamCheck"
-msgstr "\n<br>\nComo interpretar tu puntuación: <br>\n------------------------------------<br>\n<br>\nCuanto más alta sea la puntuación, más probable va a ser que el email se considere spam por los ISP, lo que significa que lo más probable es que se vaya a filtrar.\nNiveles de puntuación:<br>\n<br>\n0.0 - 4.5 > bonito y limpio, sin ningún problema a excepción del pequeño de abajo, no se necesita actuar<br>\n<br>\n4.6 - 7.0 > la más estricta, limpia fácilmente los problemas que se han encontrado (abajo)<br>\n<br>\n7.1 - 10.0 > entras en un terreno peligroso; limpia todos los grandes problemas y encuentra los pequeños fácilmente<br>\n<br>\n10.1 - 13.0 > es probable que sobrepase los límites de la ISP, exige una buena revisión y limpieza<br>\n<br>\n13.1+ > esto es un problema serio; se necesita una revisión global, una limpieza sistemática y luego ir probando punto por punto<br>\n<br>\n--------------------------------------------------<br>\n<br>\nAquí tienes los problemas que se han encontrado:<br>\n<br>\n"
+msgstr "<br>\nComo interpretar tu puntuación: <br>\n------------------------------------<br>\n<br>\nCuanto más alta sea la puntuación, más probable va a ser que el email se considere spam por los ISP, lo que significa que lo más probable es que se vaya a filtrar.\nNiveles de puntuación:<br>\n<br>\n0.0 - 4.5 > bonito y limpio, sin ningún problema a excepción del pequeño de abajo, no se necesita actuar<br>\n<br>\n4.6 - 7.0 > la más estricta, limpia fácilmente los problemas que se han encontrado (abajo)<br>\n<br>\n7.1 - 10.0 > entras en un terreno peligroso; limpia todos los grandes problemas y encuentra los pequeños fácilmente<br>\n<br>\n10.1 - 13.0 > es probable que sobrepase los límites de la ISP, exige una buena revisión y limpieza<br>\n<br>\n13.1+ > esto es un problema serio; se necesita una revisión global, una limpieza sistemática y luego ir probando punto por punto<br>\n<br>\n--------------------------------------------------<br>\n<br>\nAquí tienes los problemas que se han encontrado:<br>\n<br>"
 
 #: nl_SpamCheck.msgNoSpamCheck
 msgid "nl_SpamCheck.msgNoSpamCheck"
@@ -28135,11 +28135,11 @@ msgstr "Nota: ¡los datos del campo \"[nombredelcmapo]\" se va a vaciar para tod
 
 #: form_gest_campi_anag.tooltipDynamic
 msgid "form_gest_campi_anag.tooltipDynamic"
-msgstr "\nLos campos dinámicos: Los campos personalizados (o \"campos dinámicos\") se pueden usar para personalizar el mensaje insertando, por ejemplo: \"Estimado [nombre], queríamos decirte que...\". Si al crear o editar un mensaje no aparece la opción de \"Habilitar campos dinámicos\", esto significa que el paquete Message+ no se ha comprado.\n"
+msgstr "Los campos dinámicos: Los campos personalizados (o \"campos dinámicos\") se pueden usar para personalizar el mensaje insertando, por ejemplo: \"Estimado [nombre], queríamos decirte que...\". Si al crear o editar un mensaje no aparece la opción de \"Habilitar campos dinámicos\", esto significa que el paquete Message+ no se ha comprado."
 
 #: form_gest_campi_anag.tooltipRequired
 msgid "form_gest_campi_anag.tooltipRequired"
-msgstr "\nEs necesario: hacer que el campo necesite formularios de actualización de perfil.\n"
+msgstr "Es necesario: hacer que el campo necesite formularios de actualización de perfil."
 
 #: form_gest_campi_anag.CampoAssociatoACanale
 msgid "form_gest_campi_anag.CampoAssociatoACanale"
@@ -31168,7 +31168,7 @@ msgstr "Mensajes enviados recientemente"
 
 #: SubscriptionForm_Edit.absoluteUrlsWarning
 msgid "SubscriptionForm_Edit.absoluteUrlsWarning"
-msgstr "\n* * * A T E N C I Ó N * * *\n\nSi usas el código de este formulario en tu web, recuerda cambiar:\n\naction=\"/Frontend/subscribe.aspx\"\n\nañadiendo la dirección absoluta de la plataforma, por ejemplo:\n\naction=\"http://z3fe5.s51.it/frontend/subscribe.aspx\"\n"
+msgstr "* * * A T E N C I Ó N * * *\n\nSi usas el código de este formulario en tu web, recuerda cambiar:\n\naction=\"/Frontend/subscribe.aspx\"\nañadiendo la dirección absoluta de la plataforma, por ejemplo:\n\naction=\"http://z3fe5.s51.it/frontend/subscribe.aspx\""
 
 # ---------------------------------------
 # SubscriptionForm_List
@@ -31282,15 +31282,15 @@ msgstr "Permite que analices y maximices un mensaje"
 
 #: form_email_analysis.textPointNr1
 msgid "form_email_analysis.textPointNr1"
-msgstr "\nCOMPATIBILIDAD. Ve como aparecerá el email desde más de 30 lectores de email, tales como AOL, Blackberry, Gmail, Libero, Lotus Notes, Outlook 2003, Outlook 2007, Outlook Express, Outlook XP, Thunderbird, Hotmail, Windows Mail, Windows Mobile 5, Windows Mobile 6, Yahoo!\n<br /><br />\nCuando sea posible, el lector mostrará una vista previa del mensaje con o sin imágenes y con vista previa horizontal o vertical.\n<br /><br />\nTambien muestra una linea roja que destaca la parte del mensaje que aparece inmediatamente en lugar de la que aparece después de desplazarse por la página.\n"
+msgstr "COMPATIBILIDAD. Ve como aparecerá el email desde más de 30 lectores de email, tales como AOL, Blackberry, Gmail, Libero, Lotus Notes, Outlook 2003, Outlook 2007, Outlook Express, Outlook XP, Thunderbird, Hotmail, Windows Mail, Windows Mobile 5, Windows Mobile 6, Yahoo!\n<br /><br />\nCuando sea posible, el lector mostrará una vista previa del mensaje con o sin imágenes y con vista previa horizontal o vertical.\n<br /><br />\nTambien muestra una linea roja que destaca la parte del mensaje que aparece inmediatamente en lugar de la que aparece después de desplazarse por la página."
 
 #: form_email_analysis.textPointNr2
 msgid "form_email_analysis.textPointNr2"
-msgstr "\nANTISPAM. Un análisis de los contenidos del mensaje. Los resultados incluyen:<br />\n- Cualquier error de HTML que pueda afectar la entrega causando que intervengan los filtros de antispam<br />\n- Cualquier palabra de spam (palabras que sean reconocidas como spam por los filtros) y su relevancia\n"
+msgstr "ANTISPAM. Un análisis de los contenidos del mensaje. Los resultados incluyen:<br />\n- Cualquier error de HTML que pueda afectar la entrega causando que intervengan los filtros de antispam<br />\n- Cualquier palabra de spam (palabras que sean reconocidas como spam por los filtros) y su relevancia"
 
 #: form_email_analysis.textPointNr3
 msgid "form_email_analysis.textPointNr3"
-msgstr "\nAnálisis de enlaces. Reputación e integridad de dominios enlazados.\n"
+msgstr "Análisis de enlaces. Reputación e integridad de dominios enlazados."
 
 #: form_email_analysis.textServiceLanguage
 msgid "form_email_analysis.textServiceLanguage"
@@ -31306,15 +31306,15 @@ msgstr "email-analysis-sample.pdf"
 
 #: form_email_analysis.textServicePrice
 msgid "form_email_analysis.textServicePrice"
-msgstr "\nEl precio por cada análisis es de 1,300 créditos. Si prefieres una suscripción anual (el paquete básico incluye 5 análisis al mes) tendrás acceso directo al panel de gestión Ruta al inicio. Puedes comprar créditos en nuestra tienda online o pedírselo a tu gestor de cuenta.\n"
+msgstr "El precio por cada análisis es de 1,300 créditos. Si prefieres una suscripción anual (el paquete básico incluye 5 análisis al mes) tendrás acceso directo al panel de gestión Ruta al inicio. Puedes comprar créditos en nuestra tienda online o pedírselo a tu gestor de cuenta."
 
 #: form_email_analysis.textCreditsBuyOnLine
 msgid "form_email_analysis.textCreditsBuyOnLine"
-msgstr "\nPara compra online <a href=\"https://www.mailup.com/p/pc/custpref.asp\" target=\"_BLANK\">click here</a>\n"
+msgstr "Para compra online <a href=\"https://www.mailup.com/p/pc/custpref.asp\" target=\"_BLANK\">click here</a>"
 
 #: form_email_analysis.textOptions
 msgid "form_email_analysis.textOptions"
-msgstr "\nTambién puedes comprar servicios de consultoría, los cuales se cobran por hora.\n"
+msgstr "También puedes comprar servicios de consultoría, los cuales se cobran por hora."
 
 #: form_email_analysis.sebdResultsTo
 msgid "form_email_analysis.sebdResultsTo"
@@ -32171,7 +32171,7 @@ msgstr "Mostrar leyenda"
 
 #: AggregateReportNew.legend
 msgid "AggregateReportNew.legend"
-msgstr "\n<b>Informes inclusivos:</b>|#\n<br/><br/>\n<b>Paso 1:</b>| El informe se actualiza cada noche automáticamente por X días...#\n<b>Paso 2:</b>| Después, puedes actualizarlo manualmente desde la consola de gestión...#\n<b>Paso 3:</b>| Los informes están disponibles 24 horas después del envío...#\n<b>Paso 4:</b>| Un informe inclusivo se genera automáticamente por cada test A/B...#\n"
+msgstr "<b>Informes inclusivos:</b>|#\n<br/><br/>\n<b>Paso 1:</b>| El informe se actualiza cada noche automáticamente por X días...#\n<b>Paso 2:</b>| Después, puedes actualizarlo manualmente desde la consola de gestión...#\n<b>Paso 3:</b>| Los informes están disponibles 24 horas después del envío...#\n<b>Paso 4:</b>| Un informe inclusivo se genera automáticamente por cada test A/B...#"
 
 # ---------------------------------------
 # AggregateReportList
@@ -34028,7 +34028,7 @@ msgstr "Imprimiendo instrucciones"
 
 #: PrintHelp.testo
 msgid "PrintHelp.testo"
-msgstr "\nPara obtener unos mejores resultados cuando imprimes un informe:<br/>\n• Selecciona \"Imprimir > Configurar página\" en Internet Explorer o en FireFox<br/>\n• Reduce el márgen izquierdo y derecho<br/>\n• Selecciona \"Imprimir fondo (colores & imágenes)\" en FireFox o \"Imprimir fondo, colores e imágenes\" en IE<br/>\n"
+msgstr "Para obtener unos mejores resultados cuando imprimes un informe:<br/>\n• Selecciona \"Imprimir > Configurar página\" en Internet Explorer o en FireFox<br/>\n• Reduce el márgen izquierdo y derecho<br/>\n• Selecciona \"Imprimir fondo (colores & imágenes)\" en FireFox o \"Imprimir fondo, colores e imágenes\" en IE<br/>"
 
 # ---------------------------------------
 # CommonLabels

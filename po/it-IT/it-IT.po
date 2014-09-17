@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-12 11:39+0200\n"
 "PO-Revision-Date: 2014-09-12 09:11+0200\n"
@@ -1824,7 +1824,7 @@ msgstr "Attenzione"
 
 #: GestioneIntegrazioni.alert-message-warning
 msgid "GestioneIntegrazioni.alert-message-warning"
-msgstr "\nL'autore di questa applicazione ha limitato il suo utilizzo.##Una volta disabilitata non sarà più possibile abilitarla fino a nuova pubblicazione.##Puoi rimanere informato sull'applicazione iscrivendoti agli aggiornamenti.\n"
+msgstr "L'autore di questa applicazione ha limitato il suo utilizzo.##Una volta disabilitata non sarà più possibile abilitarla fino a nuova pubblicazione.##Puoi rimanere informato sull'applicazione iscrivendoti agli aggiornamenti."
 
 #: GestioneIntegrazioni.alert-message-confirm
 msgid "GestioneIntegrazioni.alert-message-confirm"
@@ -1860,7 +1860,7 @@ msgstr "Abilita"
 
 #: GestioneIntegrazioni.app-enable-desc
 msgid "GestioneIntegrazioni.app-enable-desc"
-msgstr "\nL'applicazione è abilitata ed ha accesso ai dati della console.##\nPer finire il processo devi visitare il seguente link e configurare l'applicazione.##\nSe l'applicazione non viene configurata verrà disabilitata in modo automatico.##\nIl link proposto è esterno a MailUp.##\nL'integrazione è sviluppata, supportata e garantita dallo sviluppatore indicato.\n"
+msgstr "L'applicazione è abilitata ed ha accesso ai dati della console.##\nPer finire il processo devi visitare il seguente link e configurare l'applicazione.##\nSe l'applicazione non viene configurata verrà disabilitata in modo automatico.##\nIl link proposto è esterno a MailUp.##\nL'integrazione è sviluppata, supportata e garantita dallo sviluppatore indicato."
 
 #: GestioneIntegrazioni.app-website
 msgid "GestioneIntegrazioni.app-website"
@@ -1916,7 +1916,7 @@ msgstr "Ricevi notifiche"
 
 #: GestioneIntegrazioni.app-notify-desc
 msgid "GestioneIntegrazioni.app-notify-desc"
-msgstr "\nDecidi a chi inviare le notifiche se vengono effettuati aggiornamenti o modifiche a questa integrazione##Notifica i contatti:\n"
+msgstr "Decidi a chi inviare le notifiche se vengono effettuati aggiornamenti o modifiche a questa integrazione##Notifica i contatti:"
 
 #: GestioneIntegrazioni.app-notify-contacts
 msgid "GestioneIntegrazioni.app-notify-contacts"
@@ -3959,7 +3959,7 @@ msgstr "Nuovo filtro geografico"
 
 #: ElencoContenutiEsterni.lblNoPermesso
 msgid "ElencoContenutiEsterni.lblNoPermesso"
-msgstr "\n<br>\nLa funzione 'Contenuti dinamici' consente di inserire in un messaggio email dei blocchi di contenuti variabili a seconda di condizioni, ad esempio immagini diverse a seconda del sesso del destinatario.\n</br>\n</br>\nI contenuti vengono presi dinamicamente al momento dell'invio e possono essere:</br>\n</br>\n1) pagine / file presi da web (URL)</br>\n2) feed RSS (in questo caso è possibile scegliere il numero e da data)</br>\n3) contenuti caricati nel sistema (salvati come messaggi email)</br>\n</br>\nSi possono inserire più contenuti dinamici in uno stesso messaggio. </br>\n<br>\nLe condizioni vengono impostate attraverso filtri liberamente impostabili:</br>\n- Filtri anagrafici (valori nel profilo destinatario)</br>\n- Filtri attività (azioni da parte del destinatario, come iscrizione, apertura, clic)</br>\n- Filtri geografici (dove si trova il destinatario)</br>\n- Filtri sui Dispositivi (quale device utilizza il destinatario)</br></br>\nPer poter creare più filtri è necessario abilitare le opzione ##Marketing+##, mentre per usare i Contenuti dinamici sono necessarie le opzioni Allegati, Tag Dinamici e Immagini Embedded.\n"
+msgstr "<br>\nLa funzione 'Contenuti dinamici' consente di inserire in un messaggio email dei blocchi di contenuti variabili a seconda di condizioni, ad esempio immagini diverse a seconda del sesso del destinatario.\n</br>\n</br>\nI contenuti vengono presi dinamicamente al momento dell'invio e possono essere:</br>\n</br>\n1) pagine / file presi da web (URL)</br>\n2) feed RSS (in questo caso è possibile scegliere il numero e da data)</br>\n3) contenuti caricati nel sistema (salvati come messaggi email)</br>\n</br>\nSi possono inserire più contenuti dinamici in uno stesso messaggio. </br>\n<br>\nLe condizioni vengono impostate attraverso filtri liberamente impostabili:</br>\n- Filtri anagrafici (valori nel profilo destinatario)</br>\n- Filtri attività (azioni da parte del destinatario, come iscrizione, apertura, clic)</br>\n- Filtri geografici (dove si trova il destinatario)</br>\n- Filtri sui Dispositivi (quale device utilizza il destinatario)</br></br>\nPer poter creare più filtri è necessario abilitare le opzione ##Marketing+##, mentre per usare i Contenuti dinamici sono necessarie le opzioni Allegati, Tag Dinamici e Immagini Embedded."
 
 #: ElencoContenutiEsterni.lblLinkMarketingPlus
 msgid "ElencoContenutiEsterni.lblLinkMarketingPlus"
@@ -4230,11 +4230,11 @@ msgstr "Totale crediti"
 
 #: newsletter_translate.lblNota
 msgid "newsletter_translate.lblNota"
-msgstr "\nQuesto servizio consente di tradurre un messaggio email in più lingue. La traduzione è di alta qualità, effettuata da un team di traduttori madrelingua e revisionata da un esperto editor, entro 3 giorni. Si otterrà un messaggio nuovo pronto per l'invio, salvato nella lista scelta.\n"
+msgstr "Questo servizio consente di tradurre un messaggio email in più lingue. La traduzione è di alta qualità, effettuata da un team di traduttori madrelingua e revisionata da un esperto editor, entro 3 giorni. Si otterrà un messaggio nuovo pronto per l'invio, salvato nella lista scelta."
 
 #: newsletter_translate.lblNB
 msgid "newsletter_translate.lblNB"
-msgstr "\nN.B.: - Il costo è legato al numero di parole presenti ed è pari a 3,2 crediti per parola (numeri e articoli vengono conteggiati come parole). L'importo minimo per ogni richiesta di traduzione è di 614 parole corrispondenti a 1.964,8 crediti.\n- Le immagini non verranno tradotte.\n- Eventuali campi dinamici, se presenti, potrebbero venire tradotti. In questo caso è necessario provvedere alla correzione sul messaggio tradotto per ripristinare quelli originali.\n- Si consiglia sempre di verificare l'HTML perché eventuali tag non chiusi potrebbero comportare la loro traduzione.\n- I traduttori sono specializzati nell'area marketing.\n- Eventuali richieste di testi di tipo legale potranno non essere effettuate, oppure non sarà garantito il livello qualitativo standard, oppure potrà essere richiesto un sovrapprezzo del 70%.\n- Una volta inviate le richieste, non è più possibile annullarle o modificarle.\n"
+msgstr "N.B.: - Il costo è legato al numero di parole presenti ed è pari a 3,2 crediti per parola (numeri e articoli vengono conteggiati come parole). L'importo minimo per ogni richiesta di traduzione è di 614 parole corrispondenti a 1.964,8 crediti.\n- Le immagini non verranno tradotte.\n- Eventuali campi dinamici, se presenti, potrebbero venire tradotti. In questo caso è necessario provvedere alla correzione sul messaggio tradotto per ripristinare quelli originali.\n- Si consiglia sempre di verificare l'HTML perché eventuali tag non chiusi potrebbero comportare la loro traduzione.\n- I traduttori sono specializzati nell'area marketing.\n- Eventuali richieste di testi di tipo legale potranno non essere effettuate, oppure non sarà garantito il livello qualitativo standard, oppure potrà essere richiesto un sovrapprezzo del 70%.\n- Una volta inviate le richieste, non è più possibile annullarle o modificarle."
 
 #: newsletter_translate.lblMessaggioOriginale
 msgid "newsletter_translate.lblMessaggioOriginale"
@@ -4862,7 +4862,7 @@ msgstr "Abilitare la pubblicazione di pagine nelle proprietà avanzate della Lis
 
 #: select_link_archived.lblNoPublicEmail
 msgid "select_link_archived.lblNoPublicEmail"
-msgstr "\nQuesta funzione permette di creare link verso pagine create in console e pubblicate.<br><br>\nNon ci sono pagine pubblicate da collegare per la lista selezionata. Per pubblicare della pagine:<br>\n1) Creare nuovi messaggi cliccando su NUOVO.<br>\n2) Da Elenco, selezionarlo e cliccare su Archivia e Pubblica\n"
+msgstr "Questa funzione permette di creare link verso pagine create in console e pubblicate.<br><br>\nNon ci sono pagine pubblicate da collegare per la lista selezionata. Per pubblicare della pagine:<br>\n1) Creare nuovi messaggi cliccando su NUOVO.<br>\n2) Da Elenco, selezionarlo e cliccare su Archivia e Pubblica"
 
 # ---------------------------------------
 # select_template
@@ -5216,7 +5216,7 @@ msgstr "IP obbligatorio"
 
 #: WSSettings.Legenda
 msgid "WSSettings.Legenda"
-msgstr "\n[b]Web services:[/b]|Nome del servizio.#\n[b]Attivo:[/b]|Indica se servizio è disponibile.#\n[b]Abilitato:[/b]|Permette di decidere se abilitare o meno il servizio.#\n[b]Indirizzi IP:[/b]|Permette di aggiungere indirizzi IP alla lista di quelli utilizzabili per richiamare il Servizio.[br] Eventuali richieste provenienti da IP non registrati non saranno accettate.\n"
+msgstr "[b]Web services:[/b]|Nome del servizio.#\n[b]Attivo:[/b]|Indica se servizio è disponibile.#\n[b]Abilitato:[/b]|Permette di decidere se abilitare o meno il servizio.#\n[b]Indirizzi IP:[/b]|Permette di aggiungere indirizzi IP alla lista di quelli utilizzabili per richiamare il Servizio.[br] Eventuali richieste provenienti da IP non registrati non saranno accettate."
 
 #: WSSettings.apiUser
 msgid "WSSettings.apiUser"
@@ -7974,7 +7974,7 @@ msgstr "Valore predefinito in caso di campo vuoto"
 
 #: set_optout_mail.testoCampiDinamici
 msgid "set_optout_mail.testoCampiDinamici"
-msgstr "\nInserisci il codice [nome campo] tutto in minuscolo oppure usa il bottone 'Inserisci campo dinamico'.<br>\nI valori predefiniti verranno modificati per le e-mail di richiesta conferma, conferma e ai disiscritti.\n"
+msgstr "Inserisci il codice [nome campo] tutto in minuscolo oppure usa il bottone 'Inserisci campo dinamico'.<br>\nI valori predefiniti verranno modificati per le e-mail di richiesta conferma, conferma e ai disiscritti."
 
 #: set_optout_mail.lblNota1
 msgid "set_optout_mail.lblNota1"
@@ -8204,7 +8204,7 @@ msgstr "Nuovo form"
 
 #: sub_box_iscr.DescrizioneBottoni
 msgid "sub_box_iscr.DescrizioneBottoni"
-msgstr "\nCopiare e incollare uno di questi bottoni sul proprio sito internet. Il bottone è già funzionante e collegato al Form1. È possibile collegarlo anche ad altri tipi di Form, utilizzando i relativi link indicati sotto. Si consiglia di mettere nell'home page del sito l'informativa per la privacy (D.lgs 196/2003).\nSono disponibili svariate modalità di integrazione tramite API, web service e batch FTP.\n"
+msgstr "Copiare e incollare uno di questi bottoni sul proprio sito internet. Il bottone è già funzionante e collegato al Form1. È possibile collegarlo anche ad altri tipi di Form, utilizzando i relativi link indicati sotto. Si consiglia di mettere nell'home page del sito l'informativa per la privacy (D.lgs 196/2003).\nSono disponibili svariate modalità di integrazione tramite API, web service e batch FTP."
 
 #: sub_box_iscr.Note
 msgid "sub_box_iscr.Note"
@@ -9368,7 +9368,7 @@ msgstr "Note aperture"
 
 #: newsletter_stats_noteaperture.text
 msgid "newsletter_stats_noteaperture.text"
-msgstr "\nPer i messaggi email storicizzati sono disponibili un numero minore di statistiche in quanto alcune informazioni sono state aggregate perdendo i dettagli sui singoli destinatari.<br>\nQuesto anche nel rispetto della direttiva europea sulla Privacy e la Data Retention (1995/46/CE e 2006/24/CE).<br>\nIl periodo predefinito è di 90 giorni. La conservazione dei dettagli su clic e aperture a livello di singolo destinatario per un periodo più lungo è possibile per chi ha acquistato l'opzione \"Archivio dettagli statistici\".<br><br>\nContattare il proprio Commerciale per ulteriori dettagli.\n"
+msgstr "Per i messaggi email storicizzati sono disponibili un numero minore di statistiche in quanto alcune informazioni sono state aggregate perdendo i dettagli sui singoli destinatari.<br>\nQuesto anche nel rispetto della direttiva europea sulla Privacy e la Data Retention (1995/46/CE e 2006/24/CE).<br>\nIl periodo predefinito è di 90 giorni. La conservazione dei dettagli su clic e aperture a livello di singolo destinatario per un periodo più lungo è possibile per chi ha acquistato l'opzione \"Archivio dettagli statistici\".<br><br>\nContattare il proprio Commerciale per ulteriori dettagli."
 
 #: newsletter_stats_noteaperture.buyDetailsExtension
 msgid "newsletter_stats_noteaperture.buyDetailsExtension"
@@ -9745,7 +9745,7 @@ msgstr "Cerca"
 
 #: send_report2_details.tooltipManageGroups
 msgid "send_report2_details.tooltipManageGroups"
-msgstr "\nPermette di copiare o spostare i destinatari in un gruppo<br />\ned utilizzarli per fare un invio includendo o escludendo tale gruppo\n"
+msgstr "Permette di copiare o spostare i destinatari in un gruppo<br />\ned utilizzarli per fare un invio includendo o escludendo tale gruppo"
 
 #: send_report2_details.lblGestioneIndirizzi
 msgid "send_report2_details.lblGestioneIndirizzi"
@@ -9944,19 +9944,19 @@ msgstr "CTOR <span class=\"note\">(Clic To Open Rate)</span>"
 
 #: detailed_report.lblTooltipOR
 msgid "detailed_report.lblTooltipOR"
-msgstr "\nOR = Tasso di apertura sugli utenti che hanno ricevuto\nla comunicazione = Lettori unici / (inviate - ritornate).\n"
+msgstr "OR = Tasso di apertura sugli utenti che hanno ricevuto\nla comunicazione = Lettori unici / (inviate - ritornate)."
 
 #: detailed_report.lblTooltipCTR
 msgid "detailed_report.lblTooltipCTR"
-msgstr "\nCTR = Tasso di clic sugli utenti che hanno ricevuto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / (inviate - ritornate).\n"
+msgstr "CTR = Tasso di clic sugli utenti che hanno ricevuto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / (inviate - ritornate)."
 
 #: detailed_report.lblTooltipCTOR
 msgid "detailed_report.lblTooltipCTOR"
-msgstr "\nCTOR = Tasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici.\n"
+msgstr "CTOR = Tasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici."
 
 #: detailed_report.notaRpt3
 msgid "detailed_report.notaRpt3"
-msgstr "\n<b>Nota:</b> <br>\nOR = Tasso di apertura sugli utenti che hanno ricevuto\nla comunicazione = Lettori unici / (inviate - ritornate).<br>\nCTR = Tasso di clic sugli utenti che hanno ricevuto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / (inviate - ritornate).<br>\nCTOR = Tasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici.\n"
+msgstr "<b>Nota:</b> <br>\nOR = Tasso di apertura sugli utenti che hanno ricevuto\nla comunicazione = Lettori unici / (inviate - ritornate).<br>\nCTR = Tasso di clic sugli utenti che hanno ricevuto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / (inviate - ritornate).<br>\nCTOR = Tasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici."
 
 #: detailed_report.migliore
 msgid "detailed_report.migliore"
@@ -9984,7 +9984,7 @@ msgstr "TxtQ benchmark index"
 
 #: detailed_report.txtQTxt
 msgid "detailed_report.txtQTxt"
-msgstr "\nTxtQ Benchmark Index. L'indice \"Text Quality\" consente di valutare\nla qualità del messaggio inviato, in termini di\nattenzione riscontrata. Il valore aumenta quanto più\nil messaggio è letto/inoltrato, quanto più\ngli utenti hanno cliccato e quanti più clic sono\nstati registrati. Le disiscrizioni invece ne decrementano\nil valore. Per migliorare il valore si dovrebbe prestare\nmaggiore attenzione all'oggetto e su come appare l'anteprima\ndel messaggio sui vari client di posta. Ulteriori miglioramenti\nsi possono riscontrare utilizzando la funzione Campi (Tag) Dinamici\nper personalizzare la comunicazione.\n"
+msgstr "TxtQ Benchmark Index. L'indice \"Text Quality\" consente di valutare\nla qualità del messaggio inviato, in termini di\nattenzione riscontrata. Il valore aumenta quanto più\nil messaggio è letto/inoltrato, quanto più\ngli utenti hanno cliccato e quanti più clic sono\nstati registrati. Le disiscrizioni invece ne decrementano\nil valore. Per migliorare il valore si dovrebbe prestare\nmaggiore attenzione all'oggetto e su come appare l'anteprima\ndel messaggio sui vari client di posta. Ulteriori miglioramenti\nsi possono riscontrare utilizzando la funzione Campi (Tag) Dinamici\nper personalizzare la comunicazione."
 
 #: detailed_report.NQ
 msgid "detailed_report.NQ"
@@ -9992,7 +9992,7 @@ msgstr "NQ benchmark index"
 
 #: detailed_report.NQText
 msgid "detailed_report.NQText"
-msgstr "\nNQ Benchmark Index. L'indice\n\"Newsletter Quality\" combina nel complesso tutti\ngli indicatori e rappresenta l'andamento globale della\nlista. Il suo valore quindi è legato sia alla qualità\ndel database utenti, sia alla capacità di comporre\ncomunicazioni di interesse agli iscritti. Un indice superiore\nalla media evidenzia un trend positivo, che più\nessere dovuto ad esempio ad una diminuzione delle disicrizioni\no ad un aumento delle aperture e dei clic registrati.\n"
+msgstr "NQ Benchmark Index. L'indice\n\"Newsletter Quality\" combina nel complesso tutti\ngli indicatori e rappresenta l'andamento globale della\nlista. Il suo valore quindi è legato sia alla qualità\ndel database utenti, sia alla capacità di comporre\ncomunicazioni di interesse agli iscritti. Un indice superiore\nalla media evidenzia un trend positivo, che più\nessere dovuto ad esempio ad una diminuzione delle disicrizioni\no ad un aumento delle aperture e dei clic registrati."
 
 #: detailed_report.titReport40
 msgid "detailed_report.titReport40"
@@ -10064,7 +10064,7 @@ msgstr "% Cliccatori su appartenenti al gruppo"
 
 #: detailed_report.nota
 msgid "detailed_report.nota"
-msgstr "\nOgni iscritto può appartenere a più gruppi contemporaneamente, per cui la somma dei totali dei singoli gruppi può risultare superiore al totale delle letture e dei clic del messaggio. Per le statistiche sugli errori (bounce) andare nel menu Iscritti > Elenco > Email > Non raggiungibili.\n"
+msgstr "Ogni iscritto può appartenere a più gruppi contemporaneamente, per cui la somma dei totali dei singoli gruppi può risultare superiore al totale delle letture e dei clic del messaggio. Per le statistiche sugli errori (bounce) andare nel menu Iscritti > Elenco > Email > Non raggiungibili."
 
 #: detailed_report.cmbSeleziona
 msgid "detailed_report.cmbSeleziona"
@@ -10290,7 +10290,7 @@ msgstr "Richiesta conferma (no statistiche)"
 
 #: form_ins_newsletter.altImgRichConf
 msgid "form_ins_newsletter.altImgRichConf"
-msgstr "\nQuesto messaggio sarà considerato una richiesta conferma per iscrizione e non verrà conteggiato nelle statistiche\n"
+msgstr "Questo messaggio sarà considerato una richiesta conferma per iscrizione e non verrà conteggiato nelle statistiche"
 
 #: form_ins_newsletter.persIntestazione
 msgid "form_ins_newsletter.persIntestazione"
@@ -11926,7 +11926,7 @@ msgstr "Esporta"
 
 #: overall_report.notaLettori
 msgid "overall_report.notaLettori"
-msgstr "\n<b>Legenda</b>|#\n<b>Lettori</b>|Destinatari che hanno letto almeno una volta il messaggio e sono stati identificati perché hanno scaricato le immagini o hanno cliccato su un link. Sono quindi lettori unici.#\n<b>Aperture</b>|Quante volte il messaggio è stato aperto in modo completo (comprese le immagini). Un utente può aprire un messaggio più volte. Aperture è un sinonimo di Letture. Il dato viene ottenuto sommando tutti gli utenti che hanno scaricato le immagini (o elaborato il CSS nel caso di invio con immagini embedded) più tutti gli utenti che hanno cliccato sul link in alto \"Se non visualizzi bene questo messaggio clicca qui per aprirlo online\", rappresentato nelle statistiche con la dicitura \"Problemi di visualizzazione\". Nel grafico sulle aperture invece vengono conteggiate solo le aperture complete di immagini sul client di posta, escludendo gli utenti che hanno visualizzato il messaggio nella versione online.#\n<b>Cliccatori</b>|Destinatari che hanno fatto almeno un clic su un link contenuto nel messaggio. Sono quindi clicca tori unici. Vengono conteggiati anche i clic sul link di disiscrizione.#\n<b>Clic</b>|È il numero di clic totali registrato. Ogni utente può cliccare più link anche più volte.#\n<b>Casella piena</b>|Email non recapitate perché il destinatario ha la casella piena#\n<b>Lettori senza clic</b>|Lettori che hanno scaricato le immagini ma non hanno cliccato su alcun link#\n<b>Cliccatori senza immagini</b>|Lettori che hanno cliccato almeno su un link ma non hanno scaricato alcuna immagine. Quindi hanno visto il messaggio ma non le immagini che erano contenute nel messaggio.#\n<b>Problemi di visualizzazione</b>|Si verifica nel momento in cui l'utente ha problemi nel leggere il messaggio nel proprio client (ad esempio perché non supporta le immagini, come nei vecchi client Lotus) e quindi clicca sul link  \"view in browser\" per visualizzare il messaggio email online.#\n<b>Inviate</b>|È il totale delle email inviate.#\n<b>Ritornate</b>|Sono i bounce, cioè le email che non arrivano a destinazione e \"rimbalzano\", successivamente il sistema li conta e li classifica (con l'opzione N:Bounce).#\n<b>Recapitate</b>|È il totale delle email inviate meno le email ritornate. Quindi sono le email che sono state recapitate con successo al destinatario, senza dare errori.#\n<b>Autorisponditori</b>|Risposte automatiche impostate da utenti temporaneamente assenti che a volte arrivano direttamente all'indirizzo del mittente.#\n<b>Disiscritti</b>|Destinatari che non vogliono più ricevere il messaggio e cliccano sul bottone di cancellazione (unsubscribe, che si genera facilmente nell'editor premendo su <font color=\"#ff0000\">Uns</font>). Il dettaglio dei disiscritti è disponibile nel menu Destinatari alla voce elenco disiscritti.#\n<b>Lettori senza immagini</b>|Stima conservativa del numero degli utenti unici che hanno letto il messaggio in\nformato testo (TXT), senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra lettori che hanno scaricato le immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#\n<b>Aperture senza immagini</b>|Stima conservativa del numero delle aperture del messaggio in\nformato testo (TXT), quindi senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra aperture con immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#\n<b>CTOR Clic to open rate</b>|è il numero di cliccatori unici fratto il numero di lettori unici. È un indicatore di quanto il messaggio stimoli all'azione (clic) dopo l'apertura.#\n<b>Aperture totali</b>|È la somma della aperture con immagini (rendered) più le aperture senza immagini, più le aperture web.#\n<b>Lettori totali</b>|È la somma dei lettori con immagini (aperture uniche con immagini, unique opens) più i lettori senza immagini.#\n<b>Aperture web</b>|Ogni messaggio può essere \"Archiviato e Pubblicato\". La versione web del messaggio viene aperta da visitatori non identificabili online, nel caso un link all'archivio dei vecchi messaggi venga inserito sul sito dell'Azienda. Anche la condivisione del messaggio sui social media (tramite le apposite funzioni disponibili nella pagina di modifica messaggio) comporta traffico sulla versione web del messaggio e quindi incrementa il valore delle aperture web. Nel conteggio non vengono considerate le aperture \"Problemi di visualizzazione\" riferita ad utenti che cliccano sull'apposito link \"Se non leggi bene questo messaggio clicca qui\" solitamente posto nella Testata. Le aperture web si incrementano inoltre nel caso di Email Check Up, di Email Analysis e di Mailbox Monitor.#\n<b>Condivisioni</b>|Quando l'iscritto clicca sul link per condividere il messaggio sui social media (la funzione è attivabile tramite apposito pulsante nella pagina di modifica messaggio), viene incrementato il valore delle Condivisioni, indipendentemente che poi l'utente decida di pubblicare effettivamente il link del messaggio sul proprio profilo social.#\n<b>Attivi</b>|Si tratta di iscritti che hanno aperto una volta negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato).#\n<b>Molto attivi:</b>|Sono gli iscritti che hanno aperto almeno due volte negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato) e comunque che hanno fatto almeno un'apertura negli ultimi 2 mesi.#\n<b>Inattivi</b>|Sono gli utenti che non hanno mai aperto negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato).#\n<b>Fan</b>|Sono gli utenti che hanno fatto inoltri o condiviso su social network.#\n<b>Visite pagina pubblica</b>|nel caso la pagina venga pubblicata online (link che\nporta all'archivio pubblico della lista), il valore di visite è riferito a\ntutte le visite alla versione web del messaggio, escludendo le aperture\nprovenienti dal messaggio email. Queste ultime sono dovute ad utenti che\ncliccano ad esempio sul link visualizza la versione online di questo\nmessaggio e sono conteggiate alla voce Problemi di Visualizzazione.\n<br>\n<br>\n<br>Come migliorare le aperture?<br>\n<br>\n<br>L'apertura e i lettori sono legati unicamente a due fattori: riconoscibilità\ndel mittente (usare quindi un nome mittente conosciuto) e tipo di oggetto\n(dev'essere breve e anticipare la parte più interessante del contenuto).\nUn basso valore di aperture può essere anche spiegato da messaggi\nche si possono leggere bene anche senza scaricare le immagini (l'apertura viene\nconteggiata solo se l'utente scarica le immagini).\n<br>\n<br>Come migliorare i clic?<br>\n<br>\n<br>Per valutare la qualità del messaggio occorre vedere il CTOR: se basso,\nsignifica che il messaggio non sollecita all'azione. Provare ad utilizzare link\ndi tipo testuale e non grafico, spiegando chiaramente cosa ci si aspetta dal\nlettore e perché.<br>\nformato testo (TXT), senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra lettori che hanno scaricato le immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#\n"
+msgstr "<b>Legenda</b>|#\n<b>Lettori</b>|Destinatari che hanno letto almeno una volta il messaggio e sono stati identificati perché hanno scaricato le immagini o hanno cliccato su un link. Sono quindi lettori unici.#\n<b>Aperture</b>|Quante volte il messaggio è stato aperto in modo completo (comprese le immagini). Un utente può aprire un messaggio più volte. Aperture è un sinonimo di Letture. Il dato viene ottenuto sommando tutti gli utenti che hanno scaricato le immagini (o elaborato il CSS nel caso di invio con immagini embedded) più tutti gli utenti che hanno cliccato sul link in alto \"Se non visualizzi bene questo messaggio clicca qui per aprirlo online\", rappresentato nelle statistiche con la dicitura \"Problemi di visualizzazione\". Nel grafico sulle aperture invece vengono conteggiate solo le aperture complete di immagini sul client di posta, escludendo gli utenti che hanno visualizzato il messaggio nella versione online.#\n<b>Cliccatori</b>|Destinatari che hanno fatto almeno un clic su un link contenuto nel messaggio. Sono quindi clicca tori unici. Vengono conteggiati anche i clic sul link di disiscrizione.#\n<b>Clic</b>|È il numero di clic totali registrato. Ogni utente può cliccare più link anche più volte.#\n<b>Casella piena</b>|Email non recapitate perché il destinatario ha la casella piena#\n<b>Lettori senza clic</b>|Lettori che hanno scaricato le immagini ma non hanno cliccato su alcun link#\n<b>Cliccatori senza immagini</b>|Lettori che hanno cliccato almeno su un link ma non hanno scaricato alcuna immagine. Quindi hanno visto il messaggio ma non le immagini che erano contenute nel messaggio.#\n<b>Problemi di visualizzazione</b>|Si verifica nel momento in cui l'utente ha problemi nel leggere il messaggio nel proprio client (ad esempio perché non supporta le immagini, come nei vecchi client Lotus) e quindi clicca sul link  \"view in browser\" per visualizzare il messaggio email online.#\n<b>Inviate</b>|È il totale delle email inviate.#\n<b>Ritornate</b>|Sono i bounce, cioè le email che non arrivano a destinazione e \"rimbalzano\", successivamente il sistema li conta e li classifica (con l'opzione N:Bounce).#\n<b>Recapitate</b>|È il totale delle email inviate meno le email ritornate. Quindi sono le email che sono state recapitate con successo al destinatario, senza dare errori.#\n<b>Autorisponditori</b>|Risposte automatiche impostate da utenti temporaneamente assenti che a volte arrivano direttamente all'indirizzo del mittente.#\n<b>Disiscritti</b>|Destinatari che non vogliono più ricevere il messaggio e cliccano sul bottone di cancellazione (unsubscribe, che si genera facilmente nell'editor premendo su <font color=\"#ff0000\">Uns</font>). Il dettaglio dei disiscritti è disponibile nel menu Destinatari alla voce elenco disiscritti.#\n<b>Lettori senza immagini</b>|Stima conservativa del numero degli utenti unici che hanno letto il messaggio in\nformato testo (TXT), senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra lettori che hanno scaricato le immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#\n<b>Aperture senza immagini</b>|Stima conservativa del numero delle aperture del messaggio in\nformato testo (TXT), quindi senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra aperture con immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#\n<b>CTOR Clic to open rate</b>|è il numero di cliccatori unici fratto il numero di lettori unici. È un indicatore di quanto il messaggio stimoli all'azione (clic) dopo l'apertura.#\n<b>Aperture totali</b>|È la somma della aperture con immagini (rendered) più le aperture senza immagini, più le aperture web.#\n<b>Lettori totali</b>|È la somma dei lettori con immagini (aperture uniche con immagini, unique opens) più i lettori senza immagini.#\n<b>Aperture web</b>|Ogni messaggio può essere \"Archiviato e Pubblicato\". La versione web del messaggio viene aperta da visitatori non identificabili online, nel caso un link all'archivio dei vecchi messaggi venga inserito sul sito dell'Azienda. Anche la condivisione del messaggio sui social media (tramite le apposite funzioni disponibili nella pagina di modifica messaggio) comporta traffico sulla versione web del messaggio e quindi incrementa il valore delle aperture web. Nel conteggio non vengono considerate le aperture \"Problemi di visualizzazione\" riferita ad utenti che cliccano sull'apposito link \"Se non leggi bene questo messaggio clicca qui\" solitamente posto nella Testata. Le aperture web si incrementano inoltre nel caso di Email Check Up, di Email Analysis e di Mailbox Monitor.#\n<b>Condivisioni</b>|Quando l'iscritto clicca sul link per condividere il messaggio sui social media (la funzione è attivabile tramite apposito pulsante nella pagina di modifica messaggio), viene incrementato il valore delle Condivisioni, indipendentemente che poi l'utente decida di pubblicare effettivamente il link del messaggio sul proprio profilo social.#\n<b>Attivi</b>|Si tratta di iscritti che hanno aperto una volta negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato).#\n<b>Molto attivi:</b>|Sono gli iscritti che hanno aperto almeno due volte negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato) e comunque che hanno fatto almeno un'apertura negli ultimi 2 mesi.#\n<b>Inattivi</b>|Sono gli utenti che non hanno mai aperto negli ultimi 3 mesi (oppure nel periodo di mantenimento dei dati statistici di dettaglio contrattualizzato).#\n<b>Fan</b>|Sono gli utenti che hanno fatto inoltri o condiviso su social network.#\n<b>Visite pagina pubblica</b>|nel caso la pagina venga pubblicata online (link che\nporta all'archivio pubblico della lista), il valore di visite è riferito a\ntutte le visite alla versione web del messaggio, escludendo le aperture\nprovenienti dal messaggio email. Queste ultime sono dovute ad utenti che\ncliccano ad esempio sul link visualizza la versione online di questo\nmessaggio e sono conteggiate alla voce Problemi di Visualizzazione.\n<br>\n<br>\n<br>Come migliorare le aperture?<br>\n<br>\n<br>L'apertura e i lettori sono legati unicamente a due fattori: riconoscibilità\ndel mittente (usare quindi un nome mittente conosciuto) e tipo di oggetto\n(dev'essere breve e anticipare la parte più interessante del contenuto).\nUn basso valore di aperture può essere anche spiegato da messaggi\nche si possono leggere bene anche senza scaricare le immagini (l'apertura viene\nconteggiata solo se l'utente scarica le immagini).\n<br>\n<br>Come migliorare i clic?<br>\n<br>\n<br>Per valutare la qualità del messaggio occorre vedere il CTOR: se basso,\nsignifica che il messaggio non sollecita all'azione. Provare ad utilizzare link\ndi tipo testuale e non grafico, spiegando chiaramente cosa ci si aspetta dal\nlettore e perché.<br>\nformato testo (TXT), senza scaricare le immagini. La stima è calcolata\nmoltiplicando il numero degli utenti che hanno cliccato senza scaricare le\nimmagini per il rapporto tra lettori che hanno scaricato le immagini sul numero\ndi cliccatori unici che hanno scaricato le immagini.#"
 
 #: overall_report.detailsSubject
 msgid "overall_report.detailsSubject"
@@ -12230,7 +12230,7 @@ msgstr "Valore predefinito se vuoto"
 
 #: form_ins_newsletterFILE.testoCampiDinamici
 msgid "form_ins_newsletterFILE.testoCampiDinamici"
-msgstr "\nIl tag [nome campo] (tutto minuscole!) nel messaggio verrà sostituito con il valore presente nel profilo destinatario. Se vuoto verrà inserito il valore predefinito.<br>\n<strong>Nota:</strong> Inserire il codice riportato nella\ncolonna \"Nome campo\" tutto in lettere minuscole.\n"
+msgstr "Il tag [nome campo] (tutto minuscole!) nel messaggio verrà sostituito con il valore presente nel profilo destinatario. Se vuoto verrà inserito il valore predefinito.<br>\n<strong>Nota:</strong> Inserire il codice riportato nella\ncolonna \"Nome campo\" tutto in lettere minuscole."
 
 #: form_ins_newsletterFILE.noCampiDinamici
 msgid "form_ins_newsletterFILE.noCampiDinamici"
@@ -12349,7 +12349,7 @@ msgstr "Valore predefinito in caso di campo vuoto"
 
 #: form_upd_newsletterFile.testoCampiDinamici
 msgid "form_upd_newsletterFile.testoCampiDinamici"
-msgstr "\nInserire il codice del campo corrispondente\nnel testo del messaggio email.<br>\n<b>Nota:</b> Inserisci esattamente il codice riportato nella\ncolonna \"Nome campo\" tutto in lettere minuscole.\n"
+msgstr "Inserire il codice del campo corrispondente\nnel testo del messaggio email.<br>\n<b>Nota:</b> Inserisci esattamente il codice riportato nella\ncolonna \"Nome campo\" tutto in lettere minuscole."
 
 #: form_upd_newsletterFile.noCampiDinamici
 msgid "form_upd_newsletterFile.noCampiDinamici"
@@ -13449,7 +13449,7 @@ msgstr "Non vuoto"
 
 #: form_filtro.nota
 msgid "form_filtro.nota"
-msgstr "\nNULL = Campo che non è mai stato valorizzato<br>\n<br>\nAND = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nOR = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>\n"
+msgstr "NULL = Campo che non è mai stato valorizzato<br>\n<br>\nAND = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nOR = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>"
 
 #: form_filtro.lblNoPermessoNoHtml
 msgid "form_filtro.lblNoPermessoNoHtml"
@@ -13944,7 +13944,7 @@ msgstr " negli ultimi #CTRL# giorni "
 
 #: form_filtro_attivita.nota
 msgid "form_filtro_attivita.nota"
-msgstr "\nlink = indicare il link o una parte del link per poter isolare solo gli utenti<br>\nche hanno cliccato. Lasciare vuoto per indicare tutti i link. Utilizzabile sono<br>\nl'attività \"Hanno/Non hanno cliccato nel\".<br>\n<br>\nand = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nor = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>\n"
+msgstr "link = indicare il link o una parte del link per poter isolare solo gli utenti<br>\nche hanno cliccato. Lasciare vuoto per indicare tutti i link. Utilizzabile sono<br>\nl'attività \"Hanno/Non hanno cliccato nel\".<br>\n<br>\nand = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nor = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>"
 
 #: form_filtro_attivita.lblNoPermessoNoHtml
 msgid "form_filtro_attivita.lblNoPermessoNoHtml"
@@ -14363,7 +14363,7 @@ msgstr " in qualsiasi data. "
 
 #: form_filtro_geo.nota
 msgid "form_filtro_geo.nota"
-msgstr "\nLINK = indicare il link o una parte del link per poter isolare solo gli utenti<br>\nche hanno cliccato. Lasciare vuoto per indicare tutti i link. Utilizzabile sono<br>\nl'attività \"Hanno/Non hanno cliccato nel\".<br>\n<br>\nAND = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nOR = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>\n"
+msgstr "LINK = indicare il link o una parte del link per poter isolare solo gli utenti<br>\nche hanno cliccato. Lasciare vuoto per indicare tutti i link. Utilizzabile sono<br>\nl'attività \"Hanno/Non hanno cliccato nel\".<br>\n<br>\nAND = Significa che le condizioni devono essere verificate contemporaneamente<br>\nEs. (occhi = verdi) AND (occhi = blu) => VUOTO<br>\n<br>\nOR = Significa che è sufficiente che almeno una delle condizioni sia verificata <br>\nEs. (occhi = verdi) OR (occhi = blu) => utenti con occhi verdi + utenti con occhi blu<br>"
 
 #: form_filtro_geo.lblNoPermessoNoHtml
 msgid "form_filtro_geo.lblNoPermessoNoHtml"
@@ -16670,7 +16670,7 @@ msgstr "Annulla"
 
 #: form_upd_sub.errorCanNotSplit
 msgid "form_upd_sub.errorCanNotSplit"
-msgstr "\nNon è possibile modificare i dati quando l'email o il cellulare è già presente ma associato ad un utente differente.<br>\nPer modificarlo, in questo caso è necessario inserire email e cellulare in due differenti schede, oppure modificare le schede destinatari già presenti.<br>\nPer cancellare un email e/o un cellulare dal proprio elenco contatti, impostare lo stato come \"disiscritti\".\n"
+msgstr "Non è possibile modificare i dati quando l'email o il cellulare è già presente ma associato ad un utente differente.<br>\nPer modificarlo, in questo caso è necessario inserire email e cellulare in due differenti schede, oppure modificare le schede destinatari già presenti.<br>\nPer cancellare un email e/o un cellulare dal proprio elenco contatti, impostare lo stato come \"disiscritti\"."
 
 #: form_upd_sub.errorCanNotSplit_1
 msgid "form_upd_sub.errorCanNotSplit_1"
@@ -17496,7 +17496,7 @@ msgstr "Header"
 
 #: set_optout_page.nota
 msgid "set_optout_page.nota"
-msgstr "\nPer inserire il link di conferma disiscrizione selezionare il\ntesto desiderato e cliccare sull'icona \"Link disiscrizione\"\n"
+msgstr "Per inserire il link di conferma disiscrizione selezionare il\ntesto desiderato e cliccare sull'icona \"Link disiscrizione\""
 
 #: set_optout_page.useCustomOptout
 msgid "set_optout_page.useCustomOptout"
@@ -18034,7 +18034,7 @@ msgstr "Seleziona casualmente # indirizzi"
 
 #: sub_list_adv.tooltipRandomSubs
 msgid "sub_list_adv.tooltipRandomSubs"
-msgstr "\nPermette di estrapolare un campione casuale di destinatari e di copiarli o spostarli in un gruppo.\n"
+msgstr "Permette di estrapolare un campione casuale di destinatari e di copiarli o spostarli in un gruppo."
 
 #: sub_list_adv.randomNoSubs
 msgid "sub_list_adv.randomNoSubs"
@@ -18257,7 +18257,7 @@ msgstr "Applica filtro per selezionare in modo casuale # numeri SMS"
 
 #: sub_list_adv_SMS.tooltipRandomSubs
 msgid "sub_list_adv_SMS.tooltipRandomSubs"
-msgstr "\nPermette di estrapolare un campione casuale di indirizzi,<br />\nper un invio di direct emailing oppure per A/B testing.<br />\nGli utenti selezionati possono essere quindi spostati in un gruppo<br />\ned utilizzati per fare un invio includendo o escludendo tale gruppo\n"
+msgstr "Permette di estrapolare un campione casuale di indirizzi,<br />\nper un invio di direct emailing oppure per A/B testing.<br />\nGli utenti selezionati possono essere quindi spostati in un gruppo<br />\ned utilizzati per fare un invio includendo o escludendo tale gruppo"
 
 #: sub_list_adv_SMS.randomNoSubs
 msgid "sub_list_adv_SMS.randomNoSubs"
@@ -18544,7 +18544,7 @@ msgstr "Applica filtro per selezionare in modo casuale # indirizzi email"
 
 #: sub_list_adv_messages.tooltipRandomSubs
 msgid "sub_list_adv_messages.tooltipRandomSubs"
-msgstr "\nPermette di estrapolare un campione casuale di indirizzi,<br />\nper un invio di direct emailing oppure per A/B testing.<br />\nGli utenti selezionati possono essere quindi spostati in un gruppo<br />\ned utilizzati per fare un invio includendo o escludendo tale gruppo\n"
+msgstr "Permette di estrapolare un campione casuale di indirizzi,<br />\nper un invio di direct emailing oppure per A/B testing.<br />\nGli utenti selezionati possono essere quindi spostati in un gruppo<br />\ned utilizzati per fare un invio includendo o escludendo tale gruppo"
 
 #: sub_list_adv_messages.randomNoSubs
 msgid "sub_list_adv_messages.randomNoSubs"
@@ -18931,11 +18931,11 @@ msgstr "Messaggio"
 
 #: confirmoptout.selListe
 msgid "confirmoptout.selListe"
-msgstr "\nL'indirizzo <strong>[email]</strong> risulta iscritto alle seguenti Liste.<br>\nSelezionare quelle dalle quali si vuole effettuare la rimozione e confermare.\n"
+msgstr "L'indirizzo <strong>[email]</strong> risulta iscritto alle seguenti Liste.<br>\nSelezionare quelle dalle quali si vuole effettuare la rimozione e confermare."
 
 #: confirmoptout.selListe2
 msgid "confirmoptout.selListe2"
-msgstr "\nL'indirizzo <strong>[email]</strong> risulta iscritto alle seguenti Liste.<br>\nSelezionare quelle a cui si vuole rimanere iscritti.\n"
+msgstr "L'indirizzo <strong>[email]</strong> risulta iscritto alle seguenti Liste.<br>\nSelezionare quelle a cui si vuole rimanere iscritti."
 
 #: confirmoptout.noIscritto
 msgid "confirmoptout.noIscritto"
@@ -19057,7 +19057,7 @@ msgstr "per estrarre solo i numeri di cellulare da un documento qualsiasi"
 
 #: form_choose_import.labelNote
 msgid "form_choose_import.labelNote"
-msgstr "\n<STRONG>Nota:</STRONG></BR>Per caricare la propria anagrafica in console utilizzare la funzione copia e incolla se si dispone di elenchi con meno di 5000 email o SMS.</BR></BR>\nLa procedura si occupa automaticamente di saltare gli indirizzi in precedenza disiscritti, di aggiornare i dati caricati in precedenza e di evitare l'inserimento di indirizzi doppi.\n"
+msgstr "<STRONG>Nota:</STRONG></BR>Per caricare la propria anagrafica in console utilizzare la funzione copia e incolla se si dispone di elenchi con meno di 5000 email o SMS.</BR></BR>\nLa procedura si occupa automaticamente di saltare gli indirizzi in precedenza disiscritti, di aggiornare i dati caricati in precedenza e di evitare l'inserimento di indirizzi doppi."
 
 #: form_choose_import.fixedLength
 msgid "form_choose_import.fixedLength"
@@ -19097,7 +19097,7 @@ msgstr "Inserisci manualmente i dati di un singolo destinatario"
 
 #: form_choose_import.lblDescContent1
 msgid "form_choose_import.lblDescContent1"
-msgstr "\nPuoi aggiungere un destinatario alla volta, inserendo manualmente tutti i dati.\n"
+msgstr "Puoi aggiungere un destinatario alla volta, inserendo manualmente tutti i dati."
 
 #: form_choose_import.lblTitleContent2
 msgid "form_choose_import.lblTitleContent2"
@@ -19105,7 +19105,7 @@ msgstr "Importa un file CSV/TXT"
 
 #: form_choose_import.lblDescContent2
 msgid "form_choose_import.lblDescContent2"
-msgstr "\nAggiungi i destinatari nella Lista partendo da un file di testo. Gli indirizzi già presenti saranno aggiornati, quelli inclusi tra i disiscritti o i sospesi non saranno inseriti, quelli doppi saranno deduplicati. Puoi variare queste impostazioni in Opzioni avanzate.\n"
+msgstr "Aggiungi i destinatari nella Lista partendo da un file di testo. Gli indirizzi già presenti saranno aggiornati, quelli inclusi tra i disiscritti o i sospesi non saranno inseriti, quelli doppi saranno deduplicati. Puoi variare queste impostazioni in Opzioni avanzate."
 
 #: form_choose_import.lblTitleContent3
 msgid "form_choose_import.lblTitleContent3"
@@ -20623,15 +20623,15 @@ msgstr "Procedi con l'invio delle richieste di conferma"
 
 #: do_import_csv.MsgCheckPreviewEmail
 msgid "do_import_csv.MsgCheckPreviewEmail"
-msgstr "\nAttenzione: le prime 10 righe del file caricato contengono meno di 3 email valide.<br/><br/>\nVerificare di aver selezionato il separatore corretto, il delimitatore e che il tipo di file sia Testo (TXT) o CSV (valori separati da virgola).<br/><br/>\nContinuare comunque con l'importazione?\n"
+msgstr "Attenzione: le prime 10 righe del file caricato contengono meno di 3 email valide.<br/><br/>\nVerificare di aver selezionato il separatore corretto, il delimitatore e che il tipo di file sia Testo (TXT) o CSV (valori separati da virgola).<br/><br/>\nContinuare comunque con l'importazione?"
 
 #: do_import_csv.MsgCheckPreviewEmailXLS
 msgid "do_import_csv.MsgCheckPreviewEmailXLS"
-msgstr "\nAttenzione: le prime 10 righe del file caricato contengono meno di 3 email valide.<br/><br/>\nVerificare eventualmente di aver selezionato la colonna corretta nel file Excel. In caso di dubbi è possibile fare riferimento ai template per #EXCEL2003# o #EXCEL2007#.<br/>Assicurati anche che non vi siano formattazioni (bordi, colori...), facendo \"Copia\" e \"Incolla Valori\" in un nuovo foglio.<br/>\nContinuare comunque con l'importazione?\n"
+msgstr "Attenzione: le prime 10 righe del file caricato contengono meno di 3 email valide.<br/><br/>\nVerificare eventualmente di aver selezionato la colonna corretta nel file Excel. In caso di dubbi è possibile fare riferimento ai template per #EXCEL2003# o #EXCEL2007#.<br/>Assicurati anche che non vi siano formattazioni (bordi, colori...), facendo \"Copia\" e \"Incolla Valori\" in un nuovo foglio.<br/>\nContinuare comunque con l'importazione?"
 
 #: do_import_csv.MsgErrorCheckPreviewEmail
 msgid "do_import_csv.MsgErrorCheckPreviewEmail"
-msgstr "\nAttenzione: non vi sono email valide nelle prime 10 righe del file caricato.<br/><br/>\nPrima di continuare, si consiglia di controllare:<br/><br/>\n- Il formato del file deve essere .txt (file di testo) o .csv (valori separati da virgola)<br/>\n- Il Separatore selezionato sia corretto (virgola o punto e virgola?)<br/>\n- Il Delimitatore, che si trova nelle impostazioni avanzate, di campo sia corretto (nullo, virgolette, apici?)\n<br/><br/>Per verificare il file, aprirlo con un editor di testo (es. in Start/Accessori/Blocco Note)<br/><br/>\nContinuare comunque con l'importazione?\n"
+msgstr "Attenzione: non vi sono email valide nelle prime 10 righe del file caricato.<br/><br/>\nPrima di continuare, si consiglia di controllare:<br/><br/>\n- Il formato del file deve essere .txt (file di testo) o .csv (valori separati da virgola)<br/>\n- Il Separatore selezionato sia corretto (virgola o punto e virgola?)<br/>\n- Il Delimitatore, che si trova nelle impostazioni avanzate, di campo sia corretto (nullo, virgolette, apici?)\n<br/><br/>Per verificare il file, aprirlo con un editor di testo (es. in Start/Accessori/Blocco Note)<br/><br/>\nContinuare comunque con l'importazione?"
 
 #: do_import_csv.lblBtnTorna
 msgid "do_import_csv.lblBtnTorna"
@@ -20647,7 +20647,7 @@ msgstr "È stato scelto un delimitatore, ma nelle prime 10 righe non è stato ut
 
 #: do_import_csv.MsgErrorCheckDelimitatore
 msgid "do_import_csv.MsgErrorCheckDelimitatore"
-msgstr "\nNon è stato possibile verificare la correttezza del delimitatore selezionato.\nSe si sceglie di proseguire ed il delimitatore indicato non è corretto potrebbero verificarsi degli errori durante l'importazione.<br/><br/>\nVuoi proseguire ugualmente?\n"
+msgstr "Non è stato possibile verificare la correttezza del delimitatore selezionato.\nSe si sceglie di proseguire ed il delimitatore indicato non è corretto potrebbero verificarsi degli errori durante l'importazione.<br/><br/>\nVuoi proseguire ugualmente?"
 
 #: do_import_csv.lblBtnTornaNoDelim
 msgid "do_import_csv.lblBtnTornaNoDelim"
@@ -22210,11 +22210,11 @@ msgstr "Seleziona"
 
 #: schedulation.msgBanda
 msgid "schedulation.msgBanda"
-msgstr "\nIl \"Tempo Stimato\" è calcolato in relazione alla dimensione dell'email e alla banda sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza.\n"
+msgstr "Il \"Tempo Stimato\" è calcolato in relazione alla dimensione dell'email e alla banda sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza."
 
 #: schedulation.msgFrequenza
 msgid "schedulation.msgFrequenza"
-msgstr "\nIl \"Tempo Stimato\" è calcolato in relazione alla velocità sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza.\n"
+msgstr "Il \"Tempo Stimato\" è calcolato in relazione alla velocità sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza."
 
 #: schedulation.msgSubjNotifica
 msgid "schedulation.msgSubjNotifica"
@@ -22880,7 +22880,7 @@ msgstr "Seleziona"
 
 #: schedulation_FAX.msgBanda
 msgid "schedulation_FAX.msgBanda"
-msgstr "\nIl \"Tempo Stimato\" è calcolato in relazione alla dimensione del messaggio e alla banda sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza.\n"
+msgstr "Il \"Tempo Stimato\" è calcolato in relazione alla dimensione del messaggio e alla banda sottoscritta a contratto.<br>\nNel caso si verificassero tempi di esecuzione sensibilmente superiori a quelli stimati vi preghiamo di contattare il servizio di assistenza."
 
 #: schedulation_FAX.msgSubjNotifica
 msgid "schedulation_FAX.msgSubjNotifica"
@@ -23850,7 +23850,7 @@ msgstr "Salva, aggiorna code e invia"
 
 #: form_upd_sms.lblAlertCode
 msgid "form_upd_sms.lblAlertCode"
-msgstr "\nAttenzione, questo messaggio ha già delle code di invio in corso/programmate. Vuoi applicare la modifica solo a questo messaggio oppure anche ai messaggi già in coda di invio?\n"
+msgstr "Attenzione, questo messaggio ha già delle code di invio in corso/programmate. Vuoi applicare la modifica solo a questo messaggio oppure anche ai messaggi già in coda di invio?"
 
 #: form_upd_sms.lblInvioInCorso
 msgid "form_upd_sms.lblInvioInCorso"
@@ -25688,7 +25688,7 @@ msgstr "Aperture da archivio"
 
 #: show_message_reports.lblTooltipCTOR
 msgid "show_message_reports.lblTooltipCTOR"
-msgstr "\nTasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici.\n"
+msgstr "Tasso di clic sugli utenti che hanno aperto la\ncomunicazione = N. utenti che hanno cliccato almeno una\nvolta / Lettori unici."
 
 #: show_message_reports.lblTooltipAbusi
 msgid "show_message_reports.lblTooltipAbusi"
@@ -27267,7 +27267,7 @@ msgstr "File logo caricato correttamente."
 
 #: form_upload_logo.uploadInfo
 msgid "form_upload_logo.uploadInfo"
-msgstr "\nPuoi caricare un logo personalizzato che comparirà sulla pagina di accettazione del contratto e sulla pagina di accesso al servizio. <bt>Puoi disattivare il logo dal menu Gestione permessi > Liste visualizzate togliendo la spunta dall'opzione 'logo'.\n"
+msgstr "Puoi caricare un logo personalizzato che comparirà sulla pagina di accettazione del contratto e sulla pagina di accesso al servizio. <bt>Puoi disattivare il logo dal menu Gestione permessi > Liste visualizzate togliendo la spunta dall'opzione 'logo'."
 
 #: form_upload_logo.LogoutOptions
 msgid "form_upload_logo.LogoutOptions"
@@ -27458,7 +27458,7 @@ msgstr "Se deselezionato, il modulo non sarà accessibile"
 
 #: form_autoprofile.altType
 msgid "form_autoprofile.altType"
-msgstr "\nTipologia del modulo:<BR>\nPubblico: modulo liberamente accessibile<BR>\nCon conferma: modulo accessibile dopo la ricezione dell'email di conferma\n"
+msgstr "Tipologia del modulo:<BR>\nPubblico: modulo liberamente accessibile<BR>\nCon conferma: modulo accessibile dopo la ricezione dell'email di conferma"
 
 #: form_autoprofile.noteEditor
 msgid "form_autoprofile.noteEditor"
@@ -27743,7 +27743,7 @@ msgstr "Valore predefinito in caso di campo vuoto"
 
 #: form_autoprofile_confirm.testoCampiDinamici
 msgid "form_autoprofile_confirm.testoCampiDinamici"
-msgstr "\nInserisci il codice [nome campo] tutto in minuscolo oppure usa il bottone 'Inserisci campo dinamico'.<br>\nI valori predefiniti verranno modificati per le e-mail di richiesta conferma, conferma e ai disiscritti. <br>\n<font color=\"#FF0000\">Attenzione: </font>non è possibile utilizzare i link di iscrizione / cancellazione (Sub / Uns) nella e-mail inviata ai disiscritti\n"
+msgstr "Inserisci il codice [nome campo] tutto in minuscolo oppure usa il bottone 'Inserisci campo dinamico'.<br>\nI valori predefiniti verranno modificati per le e-mail di richiesta conferma, conferma e ai disiscritti. <br>\n<font color=\"#FF0000\">Attenzione: </font>non è possibile utilizzare i link di iscrizione / cancellazione (Sub / Uns) nella e-mail inviata ai disiscritti"
 
 #: form_autoprofile_confirm.noMailDisiscr
 msgid "form_autoprofile_confirm.noMailDisiscr"
@@ -27755,7 +27755,7 @@ msgstr "Seleziona"
 
 #: form_autoprofile_confirm.noteAutoprofile
 msgid "form_autoprofile_confirm.noteAutoprofile"
-msgstr "\n<STRONG>Nota:</STRONG> Il link che apre il modulo di autoprofilazione si crea con il bottone <img src=\"../img/btn_autoprofile.gif\" align=\"absmiddle\" border=\"0\">\n"
+msgstr "<STRONG>Nota:</STRONG> Il link che apre il modulo di autoprofilazione si crea con il bottone <img src=\"../img/btn_autoprofile.gif\" align=\"absmiddle\" border=\"0\">"
 
 #: form_autoprofile_confirm.lblSuccesso
 msgid "form_autoprofile_confirm.lblSuccesso"
@@ -27902,39 +27902,39 @@ msgstr "Per tracciare tutti i link, selezionare link tracking automatico"
 
 #: nl_checkup.webAnalyticsHelp
 msgid "nl_checkup.webAnalyticsHelp"
-msgstr "\nÈ possibile inserire dei codici di tracciamento supplementari, derivati da sistemi di Web Analytics, come Google Analytics o altri. È sufficiente inserirli nell'apposito box nella sezione di modifica messaggio, e il codice verrà aggiunto automaticamente a tutti i link del messaggio. Attenzione: il codice non sarà immediatamente visibile, ma sarà inserito direttamente dalla pagina di tracking. È quindi verificabile solo con un invio di test. I sistemi di web analytics consentonodi tracciare la navigazione dell'utente sul sito, seguendolo fino alla conversione/acquisto.\n"
+msgstr "È possibile inserire dei codici di tracciamento supplementari, derivati da sistemi di Web Analytics, come Google Analytics o altri. È sufficiente inserirli nell'apposito box nella sezione di modifica messaggio, e il codice verrà aggiunto automaticamente a tutti i link del messaggio. Attenzione: il codice non sarà immediatamente visibile, ma sarà inserito direttamente dalla pagina di tracking. È quindi verificabile solo con un invio di test. I sistemi di web analytics consentonodi tracciare la navigazione dell'utente sul sito, seguendolo fino alla conversione/acquisto."
 
 #: nl_checkup.embeddedHelp
 msgid "nl_checkup.embeddedHelp"
-msgstr "\nPer includere le immagini, cioè per evitare il blocco delle immagini previsto in tutti i principali sistemi di posta (Outlook, Hotmail, Gmail...) è necessario aver sottoscritto l'opzione, quindi aver selezionato \"immagini embedded\"\n"
+msgstr "Per includere le immagini, cioè per evitare il blocco delle immagini previsto in tutti i principali sistemi di posta (Outlook, Hotmail, Gmail...) è necessario aver sottoscritto l'opzione, quindi aver selezionato \"immagini embedded\""
 
 #: nl_checkup.allegatiHelp
 msgid "nl_checkup.allegatiHelp"
-msgstr "\nNel caso di errore, è necessario allegare nuovamente il file.<br>Questo errore si verifica tipicamente se\nl'allegato, una volta caricato, viene rinominato o cancellato\n"
+msgstr "Nel caso di errore, è necessario allegare nuovamente il file.<br>Questo errore si verifica tipicamente se\nl'allegato, una volta caricato, viene rinominato o cancellato"
 
 #: nl_checkup.tagDinamiciHelp
 msgid "nl_checkup.tagDinamiciHelp"
-msgstr "\nI campi (tag) dinamici permettono di personalizzare il messaggio con contenuti legati al singolo destinatario\n<br>(es. il nome e il cognome). L'opzione è attiva solo per chi l'ha sottoscritta.<br>Per abilitarla premere\n\"Abilita i campi dinamici\". I campi vanno indicati con tutti i caratteri minuscoli.\n"
+msgstr "I campi (tag) dinamici permettono di personalizzare il messaggio con contenuti legati al singolo destinatario\n<br>(es. il nome e il cognome). L'opzione è attiva solo per chi l'ha sottoscritta.<br>Per abilitarla premere\n\"Abilita i campi dinamici\". I campi vanno indicati con tutti i caratteri minuscoli."
 
 #: nl_checkup.unsubscribeLinkHelp
 msgid "nl_checkup.unsubscribeLinkHelp"
-msgstr "\nIl link di cancellazione automatica è fondamentale perché consente all'utente di cancellarsi in modo sicuro e veloce.\n<br>Per realizzare tale link, è sufficiente selezionare una parola e premere sul bottone rosso \"Uns\".\n<br>Vantaggi della cancellazione automatica:\n<ul>\n<li>l'utente viene cancellato con certezza</li>\n<li>si è certi che l'utente non verrà più ricaricato per errore</li>\n<li>l'elenco dei cancellati è sempre a disposizione e consultabile andando sul menu utenti/disiscritti</li>\n<li>l'elenco dei cancellati è sempre esportabile in excel, andando nel menu esportazione</li>\n<li>è possibile ricevere una notifica per ogni utente che si cancella (vai in impostazioni della Lista)</li>\n<li>è possibile chiamare in automatico una procedura esterna per disiscrivere l'utente da altri database<br>(CMS/CRM/Ecommerce...)</li>\n</ul>\n"
+msgstr "Il link di cancellazione automatica è fondamentale perché consente all'utente di cancellarsi in modo sicuro e veloce.\n<br>Per realizzare tale link, è sufficiente selezionare una parola e premere sul bottone rosso \"Uns\".\n<br>Vantaggi della cancellazione automatica:\n<ul>\n<li>l'utente viene cancellato con certezza</li>\n<li>si è certi che l'utente non verrà più ricaricato per errore</li>\n<li>l'elenco dei cancellati è sempre a disposizione e consultabile andando sul menu utenti/disiscritti</li>\n<li>l'elenco dei cancellati è sempre esportabile in excel, andando nel menu esportazione</li>\n<li>è possibile ricevere una notifica per ogni utente che si cancella (vai in impostazioni della Lista)</li>\n<li>è possibile chiamare in automatico una procedura esterna per disiscrivere l'utente da altri database<br>(CMS/CRM/Ecommerce...)</li>\n</ul>"
 
 #: nl_checkup.controlloLinkHelp
 msgid "nl_checkup.controlloLinkHelp"
-msgstr "\nIl controllo dei link è effettuato da W3C.<br>\nContattare direttamente W3C per ogni dubbio riguardante tali risultati.\n"
+msgstr "Il controllo dei link è effettuato da W3C.<br>\nContattare direttamente W3C per ogni dubbio riguardante tali risultati."
 
 #: nl_checkup.controlloCodiceHelp
 msgid "nl_checkup.controlloCodiceHelp"
-msgstr "\nIl controllo del codice è effettuato secondo lo standard da W3C.<br>\nContattare direttamente W3C per ogni dubbio riguardante tali risultati.\n"
+msgstr "Il controllo del codice è effettuato secondo lo standard da W3C.<br>\nContattare direttamente W3C per ogni dubbio riguardante tali risultati."
 
 #: nl_checkup.controlloMobileHelp
 msgid "nl_checkup.controlloMobileHelp"
-msgstr "\nIl controllo verifica che il messaggio HTML sia compatibile con\n<br>le specifiche W3Cper i device mobili, come telefoni e smartphone.\n"
+msgstr "Il controllo verifica che il messaggio HTML sia compatibile con\n<br>le specifiche W3Cper i device mobili, come telefoni e smartphone."
 
 #: nl_checkup.controlloSpamCheckHelp
 msgid "nl_checkup.controlloSpamCheckHelp"
-msgstr "\nControllo che verifica se il messaggio verrà identificato come spam.\n"
+msgstr "Controllo che verifica se il messaggio verrà identificato come spam."
 
 #: nl_checkup.lblControlliW3C
 msgid "nl_checkup.lblControlliW3C"
@@ -27970,7 +27970,7 @@ msgstr "Stampa"
 
 #: nl_checkup.noteDiStampa
 msgid "nl_checkup.noteDiStampa"
-msgstr "\n<strong>Note:</strong><br>\n- i risultati delle validazioni W3C sono da stampare singolarmente\n- Ignorare gli errori code: 302.<br>\n- MS Outlook 2007 non supporta pienamente i CSS. Per maggiori dettagli vedi <a href=\"http://msdn.microsoft.com/en-us/library/aa338201.aspx\" target=\"_blank\" class=\"textlink\">questa pagina.</a>\n"
+msgstr "<strong>Note:</strong><br>\n- i risultati delle validazioni W3C sono da stampare singolarmente\n- Ignorare gli errori code: 302.<br>\n- MS Outlook 2007 non supporta pienamente i CSS. Per maggiori dettagli vedi <a href=\"http://msdn.microsoft.com/en-us/library/aa338201.aspx\" target=\"_blank\" class=\"textlink\">questa pagina.</a>"
 
 #: nl_checkup.lblErrTagDinamiciSpec
 msgid "nl_checkup.lblErrTagDinamiciSpec"
@@ -28205,7 +28205,7 @@ msgstr "Report:"
 
 #: nl_SpamCheck.lblNoteSpamCheck
 msgid "nl_SpamCheck.lblNoteSpamCheck"
-msgstr "\n<strong>How to interpret your score:</strong> <br>\nThe higher the score, the more likely the e-mail will be considered spam by ISPs, which means the more likely it is to get filtered.<br>\n<br>\nScore levels:<br>\n\n<strong>0.0 - 4.5</strong> > Nice and clean, no problems except tiny ones below; no action required<br>\n\n<strong>4.6 - 7.0</strong> > The strictest may object; clean up the easy-to-find issues (below)<br>\n\n<strong>7.1 - 10.0</strong> > Getting into dangerous territory; clean up any big issues and the easy-to-find smaller ones<br>\n\n<strong>10.1 - 13.0</strong> > Likely over ISP limits; requires good review and cleaning up<br>\n\n<strong>13.1+</strong> > Major problems; overhaul needed, systematically clean, point by point and then re-test<br>\n\nHere are the issues found:<br>\n<br>\n"
+msgstr "<strong>How to interpret your score:</strong> <br>\nThe higher the score, the more likely the e-mail will be considered spam by ISPs, which means the more likely it is to get filtered.<br>\n<br>\nScore levels:<br>\n\n<strong>0.0 - 4.5</strong> > Nice and clean, no problems except tiny ones below; no action required<br>\n\n<strong>4.6 - 7.0</strong> > The strictest may object; clean up the easy-to-find issues (below)<br>\n\n<strong>7.1 - 10.0</strong> > Getting into dangerous territory; clean up any big issues and the easy-to-find smaller ones<br>\n\n<strong>10.1 - 13.0</strong> > Likely over ISP limits; requires good review and cleaning up<br>\n\n<strong>13.1+</strong> > Major problems; overhaul needed, systematically clean, point by point and then re-test<br>\n\nHere are the issues found:<br>\n<br>"
 
 #: nl_SpamCheck.msgNoSpamCheck
 msgid "nl_SpamCheck.msgNoSpamCheck"
@@ -30008,7 +30008,7 @@ msgstr "Annulla selezione"
 
 #: form_ins_newsletterRSS.lblMessageNoRSS
 msgid "form_ins_newsletterRSS.lblMessageNoRSS"
-msgstr "\nNon sono state definite fonti RSS dalle quali selezionare le news. È necessario\ndefinirne almeno una per poter proseguire.<br><br>Clicca <a href=\"[link]\"qui>qui</a> per accedere alla pagina di Gestione Feed RSS.\n"
+msgstr "Non sono state definite fonti RSS dalle quali selezionare le news. È necessario\ndefinirne almeno una per poter proseguire.<br><br>Clicca <a href=\"[link]\"qui>qui</a> per accedere alla pagina di Gestione Feed RSS."
 
 #: form_ins_newsletterRSS.lblLinkRSSGest
 msgid "form_ins_newsletterRSS.lblLinkRSSGest"
@@ -30434,7 +30434,7 @@ msgstr "Indietro"
 
 #: channel_data_mapping.lblErroreMappaturaCampi
 msgid "channel_data_mapping.lblErroreMappaturaCampi"
-msgstr "\nAttenzione! Il campo scelto richiede il prefisso internazionale.\nScegliendo \"prosegui\", se non presente, il campo verrà aggiornato con il prefisso internazionale preimpostato sulla lista. Il prefisso internazionale utilizzato sarà quello dell'Italia (0039).\n"
+msgstr "Attenzione! Il campo scelto richiede il prefisso internazionale.\nScegliendo \"prosegui\", se non presente, il campo verrà aggiornato con il prefisso internazionale preimpostato sulla lista. Il prefisso internazionale utilizzato sarà quello dell'Italia (0039)."
 
 #: channel_data_mapping.lblBtnProsegui
 msgid "channel_data_mapping.lblBtnProsegui"
@@ -31337,7 +31337,7 @@ msgstr "Newsletter recenti"
 
 #: SubscriptionForm_Edit.absoluteUrlsWarning
 msgid "SubscriptionForm_Edit.absoluteUrlsWarning"
-msgstr "\n* * * A T T E N Z I O N E * * *\n\nSe incolli il codice di questo form in un tuo sito, ricorda di modificare il codice:\n\naction=\"/Frontend/subscribe.aspx\"\n\naggiungendo il percorso assoluto della tua console, cioè il dominio della tua console, ad esempio:\n\naction=\"http://z3fe5.s51.it/frontend/subscribe.aspx\"\n"
+msgstr "* * * A T T E N Z I O N E * * *\n\nSe incolli il codice di questo form in un tuo sito, ricorda di modificare il codice:\n\naction=\"/Frontend/subscribe.aspx\"\naggiungendo il percorso assoluto della tua console, cioè il dominio della tua console, ad esempio:\n\naction=\"http://z3fe5.s51.it/frontend/subscribe.aspx\""
 
 # ---------------------------------------
 # SubscriptionForm_List
@@ -31451,15 +31451,15 @@ msgstr "Per analizzare ed ottimizzare il messaggio email sotto diversi aspetti:"
 
 #: form_email_analysis.textPointNr1
 msgid "form_email_analysis.textPointNr1"
-msgstr "\nCompatibilità: permette di avere un'anteprima del messaggio email così come viene mostrato su oltre 30 client di posta, tra cui: AOL, BlackBerry,\nGmail, Libero, Lotus Notes, Outlook 2003, Outlook 2007, Outlook Express6, Outlook XP, Thunderbird, Hotmail, Windows Mail, Windows Mobile 5,\nWindows Mobile 6, Yahoo!<br /><br />\nDove possibile, l'anteprima del messaggio è disponibile nelle diverse configurazioni: con immagini abilitate o bloccate, con pannello di\nanteprima verticale o orizzontale.<br /><br />\nÈ inoltre evidenziata una linea rossa che delimita la parte che appare immediatamente, e quale invece viene vista solo facendo lo\nscrolling della pagina verso il basso.\n"
+msgstr "Compatibilità: permette di avere un'anteprima del messaggio email così come viene mostrato su oltre 30 client di posta, tra cui: AOL, BlackBerry,\nGmail, Libero, Lotus Notes, Outlook 2003, Outlook 2007, Outlook Express6, Outlook XP, Thunderbird, Hotmail, Windows Mail, Windows Mobile 5,\nWindows Mobile 6, Yahoo!<br /><br />\nDove possibile, l'anteprima del messaggio è disponibile nelle diverse configurazioni: con immagini abilitate o bloccate, con pannello di\nanteprima verticale o orizzontale.<br /><br />\nÈ inoltre evidenziata una linea rossa che delimita la parte che appare immediatamente, e quale invece viene vista solo facendo lo\nscrolling della pagina verso il basso."
 
 #: form_email_analysis.textPointNr2
 msgid "form_email_analysis.textPointNr2"
-msgstr "\nAntispam: crea un'analisi del contenuto, in particolare:<br />\n- gli errori HTML che possono compromettere la deliverability, cioè che possono causare il blocco da parte dei sistemi antispam<br />\n- le parole chiave critiche per i filtri antispam (spam word) con relativo peso di importanza.\n"
+msgstr "Antispam: crea un'analisi del contenuto, in particolare:<br />\n- gli errori HTML che possono compromettere la deliverability, cioè che possono causare il blocco da parte dei sistemi antispam<br />\n- le parole chiave critiche per i filtri antispam (spam word) con relativo peso di importanza."
 
 #: form_email_analysis.textPointNr3
 msgid "form_email_analysis.textPointNr3"
-msgstr "\nAnalisi dei link: verifica la reputazione e integrità dei domini linkati all'interno del messaggio.\n"
+msgstr "Analisi dei link: verifica la reputazione e integrità dei domini linkati all'interno del messaggio."
 
 #: form_email_analysis.textServiceLanguage
 msgid "form_email_analysis.textServiceLanguage"
@@ -31475,15 +31475,15 @@ msgstr "email-analysis-esempio.pdf"
 
 #: form_email_analysis.textServicePrice
 msgid "form_email_analysis.textServicePrice"
-msgstr "\nIl costo è di 1300 crediti per singola analisi. Se si intende acquistare un abbonamento annuale (a partire da 5 analisi al mese\nincluse) con pannello di controllo Return Path in tempo reale, o per acquistare crediti, riferirsi al proprio riferimento commerciale\n"
+msgstr "Il costo è di 1300 crediti per singola analisi. Se si intende acquistare un abbonamento annuale (a partire da 5 analisi al mese\nincluse) con pannello di controllo Return Path in tempo reale, o per acquistare crediti, riferirsi al proprio riferimento commerciale"
 
 #: form_email_analysis.textCreditsBuyOnLine
 msgid "form_email_analysis.textCreditsBuyOnLine"
-msgstr "\noppure acquistare <a href=\"http://www.mailup.it/pacchetto-crediti.htm\" target=\"_BLANK\">online.</a>\n"
+msgstr "oppure acquistare <a href=\"http://www.mailup.it/pacchetto-crediti.htm\" target=\"_BLANK\">online.</a>"
 
 #: form_email_analysis.textOptions
 msgid "form_email_analysis.textOptions"
-msgstr "\nInoltre, acquistando un pacchetto ore, è possibile richiedere una consulenza, opzionale, sull'interpretazione dei risultati, sulla definizione delle azioni\ncorrettive necessarie o sulla modifica del messaggio per risolvere i problemi evidenziati.\n"
+msgstr "Inoltre, acquistando un pacchetto ore, è possibile richiedere una consulenza, opzionale, sull'interpretazione dei risultati, sulla definizione delle azioni\ncorrettive necessarie o sulla modifica del messaggio per risolvere i problemi evidenziati."
 
 #: form_email_analysis.sebdResultsTo
 msgid "form_email_analysis.sebdResultsTo"
@@ -32348,7 +32348,7 @@ msgstr "Visualizza legenda"
 
 #: AggregateReportNew.legend
 msgid "AggregateReportNew.legend"
-msgstr "\n<b>Report aggregati:</b>|#\n<br/><br/>\n<b>Punto 1:</b>| Il report viene aggiornato ogni notte in automatico per X giorni successivi...#\n<b>Punto 2:</b>| Successivamente il report va aggiornato manualmente dal menu azioni...#\n<b>Punto 3:</b>| Se creo un report per un invio effettuato oggi, dovrò quindi aspettare il giorno successivo per vederne i dati ...#\n<b>Punto 4:</b>| Per ogni invio fatto in modalità A/B testing, viene in automatico generato un report aggregato...#\n"
+msgstr "<b>Report aggregati:</b>|#\n<br/><br/>\n<b>Punto 1:</b>| Il report viene aggiornato ogni notte in automatico per X giorni successivi...#\n<b>Punto 2:</b>| Successivamente il report va aggiornato manualmente dal menu azioni...#\n<b>Punto 3:</b>| Se creo un report per un invio effettuato oggi, dovrò quindi aspettare il giorno successivo per vederne i dati ...#\n<b>Punto 4:</b>| Per ogni invio fatto in modalità A/B testing, viene in automatico generato un report aggregato...#"
 
 # ---------------------------------------
 # AggregateReportList
@@ -34205,7 +34205,7 @@ msgstr "Istruzioni per la stampa"
 
 #: PrintHelp.testo
 msgid "PrintHelp.testo"
-msgstr "\nAl fine di stampare correttamente il report si invita cortesemente a <br/>\n. Selezionare \"Stampa > Imposta pagina\"<br/>\n. Ridurre i margini destro e sinistro<br/>\n. Selezionare l'opzione \"Stampa colori e immagini di sfondo\" (Internet Explorer) oppure \"Stampa lo sfondo (immagini e colori)\" (Firefox)<br/>\n"
+msgstr "Al fine di stampare correttamente il report si invita cortesemente a <br/>\n. Selezionare \"Stampa > Imposta pagina\"<br/>\n. Ridurre i margini destro e sinistro<br/>\n. Selezionare l'opzione \"Stampa colori e immagini di sfondo\" (Internet Explorer) oppure \"Stampa lo sfondo (immagini e colori)\" (Firefox)<br/>"
 
 # ---------------------------------------
 # CommonLabels
