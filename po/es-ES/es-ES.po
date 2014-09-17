@@ -4266,7 +4266,7 @@ msgstr "Solicitudes:"
 
 #: newsletter_translate.lblDescrizioneServizio
 msgid "newsletter_translate.lblDescrizioneServizio"
-msgstr "Algunos idiomas no están activos en estos momentos, pero los podemos activar rápidamente si es necesario. Si deseas traducir tu mensaje a otros idiomas, por favor selecciónalo aquí (no se cobra por esta solicitud)\n"
+msgstr "Algunos idiomas no están activos en estos momentos, pero los podemos activar rápidamente si es necesario. Si deseas traducir tu mensaje a otros idiomas, por favor selecciónalo aquí (no se cobra por esta solicitud)"
 
 #: newsletter_translate.lblConfirm
 msgid "newsletter_translate.lblConfirm"
